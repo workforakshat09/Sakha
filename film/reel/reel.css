@@ -1,0 +1,150 @@
+/* Sakha product reel: 1920x1080, light and warm. Every frame is a pure function of the frame number. */
+@font-face{font-family:'Shaka';src:url('/site/fonts/SHAKA.woff2') format('woff2');font-display:block}
+:root{--paper:#F7F2E8;--card:#FFFDF8;--ink:#1B1712;--ink2:#5E564B;--ink3:#9A9183;--gold:#D9962B;--gold2:#F2C46B;--hl:rgba(242,196,107,.55);--line:rgba(27,23,18,.09)}
+*{box-sizing:border-box;margin:0}
+html,body{width:1920px;height:1080px;overflow:hidden;background:var(--paper)}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:var(--paper);color:var(--ink);font-family:'Geist',system-ui,sans-serif}
+.sc{position:absolute;inset:0;visibility:hidden;overflow:hidden}
+.cam{position:absolute;left:0;top:0;width:1920px;height:1080px;transform-origin:0 0}
+.abs{position:absolute}
+.fill{position:absolute;inset:0}
+.mono{font-family:'Geist Mono',ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase}
+.head{position:absolute;left:0;right:0;text-align:center;font-weight:500;font-size:64px;letter-spacing:-.03em;line-height:1.1;color:var(--ink);white-space:nowrap}
+.hlw{position:relative;display:inline-block;padding:0 .14em;isolation:isolate;text-align:center}
+.hlw>i{position:absolute;left:0;right:0;top:.08em;bottom:.02em;border-radius:.16em;background:var(--hl);transform-origin:0 50%;z-index:-1}
+.hlw>b{font-weight:inherit}
+.blob{position:absolute;border-radius:50%;filter:blur(90px)}
+.silkbg{position:absolute;inset:-6%;background:url('img/silk.webp') center/cover}
+
+/* the ask box and the chat, as the site draws them */
+.ask{position:absolute;left:470px;top:474px;width:980px;height:132px;display:flex;align-items:center;padding:0 22px 0 52px;border-radius:66px;background:var(--card);box-shadow:0 0 0 1px var(--line),0 30px 80px -30px rgba(80,55,20,.35)}
+.ask .q{font-family:'Martel',serif;font-size:44px;color:var(--ink);white-space:pre}
+.ask .caret{display:inline-block;width:3px;height:50px;margin-left:3px;background:var(--gold)}
+.ask .send{margin-left:auto;display:grid;place-items:center;width:88px;height:88px;border-radius:50%;background:var(--ink)}
+.ask .send svg{width:36px;height:36px;stroke:var(--paper);stroke-width:2.4;fill:none}
+.pill{position:absolute;display:inline-flex;align-items:center;gap:10px;padding:14px 26px;border-radius:40px;background:var(--card);box-shadow:0 0 0 1px var(--line);font-size:24px;color:var(--ink2);white-space:nowrap}
+.bub{position:absolute;padding:26px 34px;border-radius:34px;font-family:'Martel',serif;font-size:34px;line-height:1.4}
+.bub.me{background:var(--ink);color:var(--paper);border-bottom-right-radius:10px}
+.bub.sa{background:var(--card);color:var(--ink);box-shadow:0 0 0 1px var(--line),0 20px 50px -24px rgba(80,55,20,.3);border-top-left-radius:10px;width:760px}
+.bub.sa span{display:inline-block}
+.av{position:absolute;display:grid;place-items:center;width:64px;height:64px;border-radius:50%;background:var(--gold2);font-family:'Tiro Devanagari Sanskrit',serif;font-size:34px;color:var(--ink)}
+.offer{position:absolute;display:flex;gap:26px;align-items:center;width:760px;padding:20px;border-radius:30px;background:var(--card);box-shadow:0 0 0 1px var(--line),0 30px 70px -30px rgba(80,55,20,.4)}
+.offer img{width:170px;height:130px;border-radius:18px;object-fit:cover}
+.offer .t{font-size:32px;font-weight:500;letter-spacing:-.02em}
+.offer .m{margin-top:8px;font-size:17px;color:var(--ink3)}
+.offer .go{margin-left:auto;padding:16px 28px;border-radius:30px;background:var(--ink);color:var(--paper);font-size:22px;font-weight:500;white-space:nowrap}
+.cursor{position:absolute;width:44px;height:44px;z-index:20;filter:drop-shadow(0 6px 10px rgba(0,0,0,.25))}
+
+/* the shelf as a ring of painted covers */
+.ring{position:absolute;left:960px;top:495px;transform-style:preserve-3d}
+.cover{position:absolute;left:-150px;top:-210px;width:300px;height:420px;border-radius:24px;overflow:hidden;background:#222;box-shadow:0 30px 60px -20px rgba(40,25,5,.5)}
+.cover img{width:100%;height:100%;object-fit:cover}
+.cover .cap{position:absolute;left:0;right:0;bottom:0;padding:70px 22px 22px;background:linear-gradient(transparent,rgba(10,8,5,.85));color:#fff}
+.cover .cap b{display:block;font-size:24px;font-weight:500;letter-spacing:-.02em;line-height:1.15}
+.cover .cap small{display:block;margin-top:8px;font-family:'Geist Mono',monospace;font-size:13px;letter-spacing:.1em;text-transform:uppercase;opacity:.75}
+.cover .rim{position:absolute;inset:0;border-radius:24px;box-shadow:inset 0 0 0 4px var(--gold2)}
+
+/* the story player */
+.full{position:absolute;inset:0;overflow:hidden}
+.full img{position:absolute;left:50%;top:50%;width:100%;height:100%;object-fit:cover;transform-origin:50% 50%}
+.dark{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,8,5,.45),rgba(10,8,5,0) 30%,rgba(10,8,5,0) 50%,rgba(10,8,5,.82))}
+.sub{position:absolute;left:200px;right:200px;top:728px;text-align:center;font-family:'Martel',serif;font-size:42px;line-height:1.35;color:#fff}
+.sub span{display:inline-block;margin:0 .12em}
+.bar{position:absolute;left:200px;right:200px;top:960px;height:6px;border-radius:3px;background:rgba(255,255,255,.25)}
+.bar i{position:absolute;left:0;top:0;bottom:0;border-radius:3px;background:var(--gold2)}
+.bar u{position:absolute;top:-5px;width:2px;height:16px;background:rgba(255,255,255,.6)}
+.wave{position:absolute;left:810px;top:880px;width:300px;height:60px;display:flex;align-items:center;gap:4px}
+.wave i{flex:1;border-radius:3px;background:rgba(255,255,255,.85)}
+.tlabel{position:absolute;color:#fff;font-weight:500;font-size:60px;letter-spacing:-.03em}
+.verse{position:absolute;left:370px;width:1180px;padding:56px 70px 50px;border-radius:40px;background:rgba(255,253,248,.94);box-shadow:0 60px 120px -40px rgba(0,0,0,.6);text-align:center}
+.verse .dv{font-family:'Tiro Devanagari Sanskrit',serif;font-size:50px;line-height:1.45;color:var(--ink)}
+.verse .en{margin-top:22px;font-family:'Martel',serif;font-size:31px;line-height:1.45;color:var(--ink2)}
+.verse .ref{display:inline-block;margin-top:28px;padding:12px 24px;border-radius:30px;box-shadow:0 0 0 2px var(--gold);font-family:'Geist Mono',monospace;font-size:19px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink)}
+
+/* trust cards */
+.tc{position:absolute;top:330px;width:470px;height:470px;padding:48px 44px;border-radius:36px;background:var(--card);box-shadow:0 0 0 1px var(--line),0 50px 100px -40px rgba(80,55,20,.45)}
+.tc .ic{display:grid;place-items:center;width:130px;height:130px;border-radius:50%;background:rgba(242,196,107,.35)}
+.tc svg{width:70px;height:70px;stroke:var(--ink);stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.tc h4{margin-top:46px;font-size:42px;font-weight:600;letter-spacing:-.03em}
+.tc p{margin-top:16px;font-size:26px;line-height:1.4;color:var(--ink2)}
+
+/* end card */
+.url{position:absolute;left:0;right:0;top:710px;text-align:center}
+.url span{display:inline-block;padding:22px 44px;border-radius:50px;background:var(--card);box-shadow:0 0 0 2px var(--gold),0 30px 60px -20px rgba(80,55,20,.4);font-family:'Geist Mono',monospace;font-size:32px;color:var(--ink)}
+
+/* finishing */
+.wipe{position:absolute;left:0;top:-810px;width:4800px;height:2700px;z-index:30;background:url('img/silk.webp') center/cover;-webkit-mask-image:linear-gradient(90deg,transparent,#000 15%,#000 85%,transparent);mask-image:linear-gradient(90deg,transparent,#000 15%,#000 85%,transparent);visibility:hidden}
+#grain{position:absolute;inset:0;width:1920px;height:1080px;z-index:60;pointer-events:none;mix-blend-mode:overlay;opacity:.1}
+.vig{position:absolute;inset:0;z-index:45;pointer-events:none;background:radial-gradient(120% 100% at 50% 45%,transparent 60%,rgba(70,45,10,.16) 100%)}
+.flash{position:absolute;inset:0;z-index:55;pointer-events:none;background:#fffaf0;opacity:0}
+
+/* the second half: phones, the shelf, the open book */
+.phone{position:absolute;width:390px;height:830px;border-radius:62px;padding:14px;background:#0c0c10;box-shadow:0 0 0 3px #2a2a33,0 60px 120px -30px rgba(40,25,5,.6);transform-style:preserve-3d}
+.phone .scr{position:relative;width:100%;height:100%;border-radius:50px;overflow:hidden;background:#000}
+.phone .scr img{display:block;width:100%;height:100%;object-fit:cover}
+.phone .island{position:absolute;left:50%;top:28px;width:108px;height:30px;margin-left:-54px;border-radius:18px;background:#000}
+.spine{position:absolute;display:flex;justify-content:center;padding-top:26px;border-radius:6px 6px 2px 2px;box-shadow:inset 0 0 0 2px rgba(242,196,107,.35),inset -10px 0 18px rgba(0,0,0,.3),0 20px 30px -16px rgba(40,25,5,.6)}
+.spine span{writing-mode:vertical-rl;font-family:'Tiro Devanagari Sanskrit',serif;font-size:34px;color:var(--gold2)}
+.book3d{position:absolute;left:0;top:0;width:460px;height:640px;transform-style:preserve-3d;transform-origin:50% 50%}
+.book3d .pg,.book3d .cv{position:absolute;inset:0;border-radius:8px 18px 18px 8px}
+.book3d .pg{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:20px;padding:50px;text-align:center;background:#FBF6EA;box-shadow:inset 18px 0 30px -18px rgba(80,55,20,.35),0 40px 80px -30px rgba(40,25,5,.5)}
+.book3d .pg .dv{font-family:'Tiro Devanagari Sanskrit',serif;font-size:66px;color:var(--gold)}
+.book3d .pg .t{font-family:'Martel',serif;font-size:38px;line-height:1.3;color:var(--ink)}
+.book3d .pg .mono{font-size:16px;color:var(--ink3)}
+.book3d .cv{display:flex;flex-direction:column;align-items:center;gap:26px;padding:44px 40px;background:#7e3814;box-shadow:inset 0 0 0 3px rgba(242,196,107,.5),0 40px 80px -30px rgba(40,25,5,.6);transform-origin:0 50%;backface-visibility:hidden}
+.book3d .cv .win{display:block;width:100%;height:440px;border-radius:10px;overflow:hidden;box-shadow:0 0 0 3px var(--gold2)}
+.book3d .cv .win img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
+.book3d .cv b{font-family:'Martel',serif;font-weight:400;font-size:34px;color:var(--gold2)}
+
+/* the site's own shelf and book, copied from sakha-site/css/site.css (desktop sizes), scoped to .site */
+.site{--head:'Shaka',Georgia,serif;--read:'Martel',Georgia,serif;--dev:'Tiro Devanagari Sanskrit',serif;--mono:'Geist Mono',monospace;--gold:#F2C46B;--ink:#EEE9E0;--ink2:#BFB8AC;--paper-ink:#1A1611;--paper-ink2:#453C31;--paper-ink3:#7A6D5B;--rubric:#8A3A14;color:var(--ink)}
+.site p,.site h3{margin:0}
+.site .mono{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink2)}
+.site .shelf__row{display:flex;align-items:flex-end;gap:5px}
+.site .book{--w:56px;position:relative;flex:0 0 var(--w);height:var(--h)}
+.site .book__spine,.site .book__cover{position:absolute;inset:0;border-radius:2px 4px 4px 2px;overflow:hidden}
+.site .book__spine{display:flex;flex-direction:column;align-items:center;padding:16px 0 12px;background:linear-gradient(90deg,rgba(0,0,0,.5),rgba(255,255,255,.08) 28%,rgba(0,0,0,.06) 62%,rgba(0,0,0,.55)),repeating-linear-gradient(0deg,rgba(255,255,255,.03) 0 1px,transparent 1px 3px),var(--cloth);box-shadow:inset 0 0 0 1px rgba(0,0,0,.45),0 18px 30px -12px rgba(0,0,0,.85)}
+.site .book__spine::before,.site .book__spine::after{content:"";position:absolute;left:7px;right:7px;height:4px;border-top:1px solid rgba(242,196,107,.7);border-bottom:1px solid rgba(242,196,107,.7)}
+.site .book__spine::before{top:86px}
+.site .book__spine::after{bottom:38px}
+.site .book__dev{height:62px;writing-mode:vertical-rl;font-family:var(--dev);font-size:12.5px;line-height:1.2;color:var(--gold);overflow:hidden;text-align:center}
+.site .book__name{flex:1;min-height:0;margin:20px 0 32px;writing-mode:vertical-rl;font-family:var(--head);font-size:21px;line-height:1;color:var(--ink);display:flex;align-items:center;justify-content:center;white-space:nowrap}
+.site .book__n{color:rgba(242,196,107,.85);font-size:10px}
+.site .book__cover{opacity:0}
+.site .shelf__plank{height:14px;border-radius:2px;background:linear-gradient(180deg,#2c2219,#110d09);box-shadow:inset 0 1px 0 rgba(242,196,107,.28),0 24px 40px -12px rgba(0,0,0,.6)}
+.site .hc{position:absolute;inset:0;container-type:size;border-radius:2px 5px 5px 2px;overflow:hidden;background:linear-gradient(90deg,rgba(0,0,0,.5),rgba(255,255,255,.09) 4%,rgba(0,0,0,.08) 9%,transparent 14%),linear-gradient(180deg,rgba(255,255,255,.06),rgba(0,0,0,.28)),repeating-linear-gradient(45deg,rgba(255,255,255,.035) 0 1px,transparent 1px 3px),var(--cloth,#7e3814);box-shadow:inset 0 0 0 1px rgba(0,0,0,.45),0 30px 60px -20px rgba(0,0,0,.9)}
+.site .hc__win{position:absolute;left:13%;right:9%;top:8%;height:57%;padding:2.2cqw;border:1px solid rgba(242,196,107,.8);outline:1px solid rgba(242,196,107,.35);outline-offset:1.6cqw}
+.site .hc__win img{display:block;width:100%;height:100%;object-fit:cover}
+.site .hc__title{position:absolute;left:13%;right:9%;top:72%;font-family:var(--head);font-size:9.6cqw;line-height:1.04;text-align:center;color:var(--gold);text-shadow:0 1px 0 rgba(0,0,0,.45)}
+.site .hc__by{position:absolute;left:13%;right:9%;bottom:5.5%;text-align:center;font-size:4.4cqw;color:rgba(242,196,107,.85);white-space:nowrap}
+.flyb{position:absolute;left:0;top:0;width:392px;height:541px;transform-origin:0 0;transform-style:preserve-3d}
+.flyb>.reader__leaf{position:absolute;inset:0;box-shadow:0 40px 60px -20px rgba(40,25,5,.5)}
+.flyleaf{position:absolute;inset:0;transform-origin:left center;transform-style:preserve-3d}
+.site .fly__front,.site .fly__back{position:absolute;inset:0;display:flex;-webkit-backface-visibility:hidden;backface-visibility:hidden}
+.site .fly__back{transform:rotateY(180deg)}
+.site .reader__leaf{display:flex;background:linear-gradient(180deg,rgba(255,255,255,.06),rgba(0,0,0,.25)),repeating-linear-gradient(45deg,rgba(255,255,255,.035) 0 1px,transparent 1px 3px),var(--cloth,#7e3814)}
+.site .reader__leaf--l{padding:10px 0 13px 13px;border-radius:7px 0 0 7px}
+.site .reader__leaf--r{padding:10px 13px 13px 0;border-radius:0 7px 7px 0}
+.site .reader__paper{position:relative;flex:1;min-width:0;min-height:0;color:var(--paper-ink);background:radial-gradient(130% 100% at 50% 35%,#F2EBDC 0%,#E9DFCB 70%,#DDD1B8 100%)}
+.site .reader__leaf--l .reader__paper{border-radius:3px 0 0 3px;box-shadow:-1px 1px 0 #d8ccb1,-2px 2px 0 #c6b99c,-3px 3px 0 #d8ccb1,-4px 4px 0 #b9ac8f}
+.site .reader__leaf--r .reader__paper{border-radius:0 3px 3px 0;box-shadow:1px 1px 0 #d8ccb1,2px 2px 0 #c6b99c,3px 3px 0 #d8ccb1,4px 4px 0 #b9ac8f}
+.site .reader__paper::after{content:"";position:absolute;inset:0;pointer-events:none}
+.site .reader__leaf--l .reader__paper::after{background:linear-gradient(270deg,rgba(74,52,24,.42),rgba(74,52,24,.1) 6%,transparent 15%)}
+.site .reader__leaf--r .reader__paper::after{background:linear-gradient(90deg,rgba(74,52,24,.42),rgba(74,52,24,.1) 6%,transparent 15%)}
+.site .reader__plate{display:flex;flex-direction:column;align-items:center;padding:10% 11% 8% 10%}
+.site .reader__fig{display:block;flex:1;min-height:0;width:100%;padding:5px;border:1px solid rgba(26,22,17,.55);box-shadow:0 0 0 3px rgba(26,22,17,.06)}
+.site .reader__fig img{display:block;width:100%;height:100%;object-fit:cover}
+.site .reader__plate .reader__dev{margin-top:14px;font-family:var(--dev);font-size:22px;line-height:1.2;color:var(--paper-ink)}
+.site .reader__plate .reader__en{margin-top:2px;color:var(--paper-ink3)}
+.site .reader__text{display:flex;flex-direction:column;justify-content:center;gap:12px;padding:44px 40px 48px 50px}
+.site .reader__label{color:var(--paper-ink3)}
+.site .reader__title{font-family:var(--head);font-weight:400;font-size:46px;line-height:1.02;color:var(--paper-ink)}
+.site .reader__name{color:var(--rubric);font-family:var(--read)}
+.site .reader__for{color:var(--paper-ink2);font-family:var(--read);font-size:17px}
+.site .reader__acts{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px}
+.site .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;height:44px;padding:0 18px;font-family:'Geist',sans-serif;font-size:14px;font-weight:500;white-space:nowrap}
+.site .btn--solid{background:var(--paper-ink);color:#F2EBDC}
+.site .btn--ghost{background:transparent;box-shadow:inset 0 0 0 1px rgba(26,22,17,.35);color:var(--paper-ink)}
+.site .reader__acts .mono{color:inherit;opacity:.7}
+.site .reader__folio{position:absolute;left:0;right:0;bottom:14px;text-align:center;color:var(--paper-ink3)}
+.phone .glare{position:absolute;inset:14px;border-radius:50px;background:linear-gradient(115deg,rgba(255,255,255,.14),rgba(255,255,255,0) 40%);pointer-events:none}

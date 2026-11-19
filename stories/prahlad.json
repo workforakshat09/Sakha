@@ -1,0 +1,184 @@
+{
+  "id": "prahlad",
+  "title": "Scene 04 · Prahlad",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "p01",
+      "kw": "King",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "The demon king Hiranyakashipu, an enormous asura with dark skin, a thick black beard, small fangs, fierce eyes and a heavy gold crown, sits on a towering dark throne in a vast pillared hall. Tiny frightened gods in the shadows below his throne.",
+      "text": "There was once a demon king named Hiranyakashipu… so powerful that even the gods were afraid of him.",
+      "score": [
+        "alap",
+        80
+      ]
+    },
+    {
+      "k": "p02",
+      "kw": "Boon",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "In a desert at dusk, the thin, bearded asura king Hiranyakashipu kneels after long penance, covered in an anthill and vines. Above him, the god Brahma appears on a lotus in a cloud of light: four bearded faces, four arms, holding a water pot, granting a boon.",
+      "text": "He had won a boon. No man or beast could kill him. Not by day… or by night. Not indoors… or outdoors. Not on earth… or in the sky. Not with any weapon."
+    },
+    {
+      "k": "p03",
+      "kw": "Worship me",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "A huge crowd of people bow low to the ground before giant stone statues of the demon king Hiranyakashipu with his crown and beard. Temple shrines to the gods behind them are being shut and broken by soldiers.",
+      "text": "He believed he could never die. So he ordered the whole world to stop praying to the gods… and to worship him instead."
+    },
+    {
+      "k": "p04",
+      "kw": "Son",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "A little boy, Prahlad, about seven years old, with dark hair, a saffron dhoti and a small tilak, stands calm and small in a vast, dark palace hall with huge pillars and giant statues of his father looming over him.",
+      "text": "But in his own palace lived a little boy… who would not bow. His son. Prahlad."
+    },
+    {
+      "k": "p05",
+      "kw": "Narayana",
+      "feel": "devotional",
+      "pace": 0.84,
+      "img": "In a palace schoolroom, little Prahlad with dark hair and a saffron dhoti sits cross-legged with eyes closed and hands folded, whispering a prayer, a faint image of Vishnu with conch and discus above him. Two stern asura teachers with scrolls glare at him; other boys stare.",
+      "text": "Prahlad loved Lord Vishnu… Narayana… with his whole heart. At school, instead of praising his father… he spoke only of Vishnu."
+    },
+    {
+      "k": "p06",
+      "kw": "Rage",
+      "feel": "tense",
+      "pace": 0.88,
+      "img": "The furious face of the demon king Hiranyakashipu fills the frame: thick black beard, small fangs, heavy gold crown, eyes burning with fire, veins standing out, mouth open in a roar.",
+      "text": "His father was furious. My own son… against me? Change his mind, he told the teachers. Or he will pay."
+    },
+    {
+      "k": "p07",
+      "kw": "Calm",
+      "feel": "calm",
+      "pace": 0.82,
+      "img": "Little Prahlad with dark hair and a saffron dhoti sits peacefully cross-legged in the centre while asura teachers shout, wave scrolls and point canes at him from all sides. He smiles gently, unmoved.",
+      "text": "They tried everything. Lessons… threats… punishments. Prahlad stayed gentle, and polite. And he did not change."
+    },
+    {
+      "k": "p08",
+      "kw": "Snakes",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "Little Prahlad with dark hair and a saffron dhoti sits praying with eyes closed in a stone pit while many cobras coil around him, hoods raised, but their heads turn away and none of them bite. Guards look down from above in shock.",
+      "text": "The Bhagavata Purana tells how the king tried to destroy him. Snakes were thrown on him. They did him no harm."
+    },
+    {
+      "k": "p09",
+      "kw": "Elephants",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "Huge armoured war elephants charge toward little Prahlad, who stands calmly with folded hands in a palace courtyard. The front elephant has stopped right before him, trunk lowered gently, kneeling.",
+      "text": "Wild elephants were sent to trample him. They stopped… and would not touch him."
+    },
+    {
+      "k": "p10",
+      "kw": "Cliff",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "Little Prahlad falls from a tall cliff with his hands folded in prayer and eyes closed, wrapped in a soft circle of light like cupped hands, drifting down gently toward the ground. Soldiers at the cliff top look down.",
+      "text": "He was thrown from a cliff. Poisoned. Starved. And every time… Prahlad simply prayed. And he was kept safe."
+    },
+    {
+      "k": "p11",
+      "kw": "Holika",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "Holika, the demon king's sister, a tall woman with dark hair, heavy jewellery and a cold smile, wraps herself in a shimmering patterned shawl, a large pile of firewood being stacked behind her.",
+      "text": "Then the king called his sister, Holika. The story goes that she had a shawl… that fire could never burn."
+    },
+    {
+      "k": "p12",
+      "kw": "Fire",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "Holika sits on a huge bonfire with little Prahlad on her lap. A wind lifts her magic shawl off her and wraps it around the praying boy, while the flames rise around her. Crowds watch from a distance.",
+      "text": "She sat in a great fire, with Prahlad in her lap. But the wind took her shawl… and the flames turned on her instead."
+    },
+    {
+      "k": "prahlad",
+      "kw": "Untouched",
+      "feel": "wonder",
+      "pace": 0.82,
+      "text": "And the boy sat in the middle of the fire… praying. Untouched."
+    },
+    {
+      "k": "p13",
+      "kw": "Holi",
+      "feel": "joyful",
+      "pace": 0.88,
+      "img": "A village at night gathered around a big bonfire, people laughing and throwing clouds of pink, yellow and green coloured powder in the air, children dancing, drums, the moon above.",
+      "text": "That is the night India still remembers every spring… with bonfires… on the night before Holi."
+    },
+    {
+      "k": "p14",
+      "kw": "Where?",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "In the palace hall, the enormous demon king Hiranyakashipu grips little Prahlad by the arm and furiously points at a tall carved stone pillar with his sword.",
+      "text": "Now the king was beyond rage. Where is your Vishnu? he roared. Is he in this pillar?"
+    },
+    {
+      "k": "p15",
+      "kw": "Everywhere",
+      "feel": "firm",
+      "pace": 0.82,
+      "img": "Little Prahlad, small and fearless, with dark hair and a saffron dhoti, looks calmly up at his towering furious father, hands folded. A soft light falls on the boy.",
+      "text": "He is everywhere, father… said Prahlad. He is in that pillar too."
+    },
+    {
+      "k": "p16",
+      "kw": "Pillar",
+      "feel": "grand",
+      "pace": 0.88,
+      "img": "The demon king's fist smashes into the carved stone pillar; the pillar splits open with jagged cracks, and blazing gold light bursts out through them. Stone fragments fly.",
+      "text": "The king struck the pillar with all his strength. And the pillar… split open."
+    },
+    {
+      "k": "p17",
+      "kw": "Narasimha",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "Narasimha bursts out of the broken pillar on the palace threshold at twilight: the head of a lion with a great flowing mane and the body of a man with four arms, gold ornaments and a gold crown, roaring. Twilight sky through the doorway.",
+      "text": "Out came Vishnu as Narasimha. Half man… half lion. Not man, not beast. At twilight… not day or night. On the threshold… not inside, or outside."
+    },
+    {
+      "k": "p18",
+      "kw": "Ended",
+      "feel": "peace",
+      "pace": 0.82,
+      "img": "Twilight. Narasimha, lion-headed with four arms and gold ornaments, sits calmly on the palace threshold, his anger fading. The demon king's heavy gold crown lies fallen and empty on the floor. The danger is over.",
+      "text": "Every condition of the boon was met. And the fear that had ruled the whole world… was ended."
+    },
+    {
+      "k": "p19",
+      "kw": "Mercy",
+      "feel": "tender",
+      "pace": 0.8,
+      "img": "Little Prahlad kneels with folded hands at the feet of Narasimha, who has become gentle, resting one large hand on the boy's head in blessing. Lamplight, soft and calm.",
+      "text": "Then Prahlad asked for one thing only. Not riches. Not power. He asked… that his father be forgiven."
+    },
+    {
+      "k": "prahlad",
+      "kw": "Held",
+      "feel": "sacred",
+      "pace": 0.8,
+      "text": "Fear was louder than everyone in that kingdom. Except one small boy… who knew he was held."
+    },
+    {
+      "k": "diya",
+      "kw": "Carried",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… Those who think of me, always… I carry what they lack. And I keep what they have."
+    }
+  ]
+}

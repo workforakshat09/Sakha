@@ -1,0 +1,138 @@
+{
+  "id": "hima",
+  "title": "Scene 14 · King Hima",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "y01",
+      "kw": "One son",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "In a peaceful courtyard of an ancient Indian palace with carved sandstone arches, jharokha balconies and a lotus pool, King Hima: older Indian king with warm brown skin, grey beard, tall Indian gold mukut crown, deep blue silk angavastram and dhoti, pearl necklaces walks with his arm around the prince: Indian young man about sixteen with warm brown skin, clean-shaven, short black hair, small gold mukut crown, white silk dhoti and gold-bordered angavastram, both smiling.",
+      "text": "Long ago there was a king named Hima. His kingdom was peaceful… and he had one son, whom he loved more than anything.",
+      "score": [
+        "sitar-bansuri",
+        60
+      ]
+    },
+    {
+      "k": "y02",
+      "kw": "Stars",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "In an Indian royal chamber, old jyotish astrologers with white dhotis, sacred threads and tilak study a palm-leaf horoscope drawn as a square Indian kundali chart, while King Hima: older Indian king with warm brown skin, grey beard, tall Indian gold mukut crown, deep blue silk angavastram and dhoti, pearl necklaces watches anxiously.",
+      "text": "When the prince was born, the astrologers read his stars… and fell silent."
+    },
+    {
+      "k": "y03",
+      "kw": "Prophecy",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "An old Indian jyotish astrologer with a white dhoti, sacred thread and tilak speaks gravely, pointing at a palm-leaf kundali chart, and King Hima: older Indian king with warm brown skin, grey beard, tall Indian gold mukut crown, deep blue silk angavastram and dhoti, pearl necklaces turns away in sorrow, his hand over his heart.",
+      "text": "On the fourth night after his wedding, they said… a snake will take his life."
+    },
+    {
+      "k": "y04",
+      "kw": "Counting",
+      "feel": "heavy",
+      "pace": 0.82,
+      "img": "King Hima: older Indian king with warm brown skin, grey beard, tall Indian gold mukut crown, deep blue silk angavastram and dhoti, pearl necklaces stands at a palace window at night, worried, watching the prince: Indian young man about sixteen with warm brown skin, clean-shaven, short black hair, small gold mukut crown, white silk dhoti and gold-bordered angavastram practise archery in the moonlit courtyard below.",
+      "text": "The king carried that fear for years. He watched his son grow… and counted the days."
+    },
+    {
+      "k": "y05",
+      "kw": "Wedding",
+      "feel": "joyful",
+      "pace": 0.88,
+      "img": "A royal wedding: the prince: Indian young man about sixteen with warm brown skin, clean-shaven, short black hair, small gold mukut crown, white silk dhoti and gold-bordered angavastram and the princess, his wife: Indian young woman with warm brown skin, long black hair in a braid, steady clever eyes, red sari with a gold border, a small gold nose ring walk around a sacred fire under a canopy of marigolds, King Hima: older Indian king with warm brown skin, grey beard, tall Indian gold mukut crown, deep blue silk angavastram and dhoti, pearl necklaces watching with both joy and worry.",
+      "text": "Then the prince was married. His bride was young and clever… and she had heard the prophecy too."
+    },
+    {
+      "k": "y06",
+      "kw": "Fourth night",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "In a palace bedchamber at night, the prince: Indian young man about sixteen with warm brown skin, clean-shaven, short black hair, small gold mukut crown, white silk dhoti and gold-bordered angavastram yawns, tired, while the princess, his wife: Indian young woman with warm brown skin, long black hair in a braid, steady clever eyes, red sari with a gold border, a small gold nose ring stands at the doorway looking out into the dark, determined.",
+      "text": "The fourth night came. The prince was tired. But his wife would not let him sleep."
+    },
+    {
+      "k": "y07",
+      "kw": "Gold",
+      "feel": "resolve",
+      "pace": 0.86,
+      "img": "the princess, his wife: Indian young woman with warm brown skin, long black hair in a braid, steady clever eyes, red sari with a gold border, a small gold nose ring piles her gold necklaces, bangles and silver coins into a large shining heap across the doorway of the bedchamber.",
+      "text": "She took off all her gold ornaments… gathered every silver coin… and piled them in a shining heap across the doorway."
+    },
+    {
+      "k": "y08",
+      "kw": "Lamps",
+      "feel": "wonder",
+      "pace": 0.86,
+      "img": "the princess, his wife: Indian young woman with warm brown skin, long black hair in a braid, steady clever eyes, red sari with a gold border, a small gold nose ring lights rows of small clay oil lamps along every wall, window and step of the bedchamber, the whole room glowing with hundreds of flames.",
+      "text": "Then she lit lamps. Dozens. Hundreds. In every corner, along every wall… until the night itself was bright."
+    },
+    {
+      "k": "y09",
+      "kw": "Stories",
+      "feel": "tender",
+      "pace": 0.84,
+      "img": "Inside the lamp-lit chamber, the princess, his wife: Indian young woman with warm brown skin, long black hair in a braid, steady clever eyes, red sari with a gold border, a small gold nose ring sits beside the prince: Indian young man about sixteen with warm brown skin, clean-shaven, short black hair, small gold mukut crown, white silk dhoti and gold-bordered angavastram, telling him a story with expressive hands, and he listens, wide awake, smiling.",
+      "text": "And she sat beside her husband and told him stories… and sang songs, one after another, so that he would stay awake."
+    },
+    {
+      "k": "y10",
+      "kw": "Midnight",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "At midnight in a dark palace corridor, a great dark-green serpent wearing a small gold crown (Yama in disguise) glides silently toward a glowing doorway at the far end.",
+      "text": "At midnight, Yama, the lord of death, came for the prince… in the form of a serpent."
+    },
+    {
+      "k": "y11",
+      "kw": "Dazzled",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "a great dark-green serpent wearing a small gold crown (Yama in disguise) stops at the doorway before the heap of gold and silver, dazzled, its eyes half closed against the blaze of lamplight flashing on the gold.",
+      "text": "But at the door, the lamplight flashing on the gold dazzled him. He could not find the way in."
+    },
+    {
+      "k": "y12",
+      "kw": "Listening",
+      "feel": "quiet",
+      "pace": 0.82,
+      "img": "a great dark-green serpent wearing a small gold crown (Yama in disguise) lies coiled on top of the heap of gold at the doorway, head raised, quietly listening as the princess, his wife: Indian young woman with warm brown skin, long black hair in a braid, steady clever eyes, red sari with a gold border, a small gold nose ring sings in the glowing room.",
+      "text": "So he climbed onto the heap of gold… and sat there. And he began to listen to her songs."
+    },
+    {
+      "k": "y13",
+      "kw": "Dawn",
+      "feel": "hopeful",
+      "pace": 0.84,
+      "img": "At dawn, pale light comes through the palace windows, the lamps burnt low, and a great dark-green serpent wearing a small gold crown (Yama in disguise) slides quietly away down the corridor, away from the chamber.",
+      "text": "All night he listened. And when dawn came, the hour had passed… and Yama went away, empty-handed."
+    },
+    {
+      "k": "y14",
+      "kw": "Alive",
+      "feel": "joyful",
+      "pace": 0.88,
+      "img": "In the morning, King Hima: older Indian king with warm brown skin, grey beard, tall Indian gold mukut crown, deep blue silk angavastram and dhoti, pearl necklaces embraces the prince: Indian young man about sixteen with warm brown skin, clean-shaven, short black hair, small gold mukut crown, white silk dhoti and gold-bordered angavastram with tears of joy, while the princess, his wife: Indian young woman with warm brown skin, long black hair in a braid, steady clever eyes, red sari with a gold border, a small gold nose ring, tired but smiling, stands beside them among burnt-out lamps.",
+      "text": "The prince lived. And the king wept with joy."
+    },
+    {
+      "k": "y15",
+      "kw": "Yama’s lamp",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Present-day India at dusk: a woman places a single lit clay lamp at the doorstep of her home, facing south, a few new silver coins beside it, the street glowing with Diwali lights.",
+      "text": "That is why, on Dhanteras, two days before Diwali, families still light one lamp for Yama at the door, facing south… and bring home something of gold or silver."
+    },
+    {
+      "k": "diya",
+      "kw": "The lamp",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… Out of love, I live in their hearts… and destroy the darkness with the shining lamp of knowledge."
+    }
+  ]
+}

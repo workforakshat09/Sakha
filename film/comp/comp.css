@@ -1,0 +1,56 @@
+/* The Sakha launch film: 1080x1350 (4:5 for LinkedIn and X). Every frame is a pure function of the frame number. */
+@font-face{font-family:'Shaka';src:url('/site/fonts/SHAKA.woff2') format('woff2');font-display:block}
+:root{--bg:#06060A;--ink:#EEE9E0;--ink2:#BFB8AC;--ink3:#8E887E;--gold:#F2C46B;--marigold:#E8862A}
+*{box-sizing:border-box;margin:0}
+html,body{width:1080px;height:1350px;overflow:hidden;background:var(--bg)}
+#stage{position:relative;width:1080px;height:1350px;overflow:hidden;background:var(--bg);color:var(--ink);font-family:'Martel',Georgia,serif}
+.sc{position:absolute;inset:0;visibility:hidden}
+.abs{position:absolute}
+.fill{position:absolute;inset:0}
+.paint{position:absolute;inset:0;overflow:hidden}
+.paint img{position:absolute;left:50%;top:50%;height:100%;width:auto;max-width:none;transform-origin:50% 50%;will-change:transform}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,6,10,.55) 0%,rgba(6,6,10,0) 28%,rgba(6,6,10,0) 48%,rgba(6,6,10,.86) 78%,rgba(6,6,10,.96) 100%)}
+.mono{font-family:'Geist Mono',ui-monospace,monospace;font-size:22px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink2)}
+.say{position:absolute;left:84px;right:84px;font-family:'Martel',serif;font-weight:300;font-size:58px;line-height:1.22;color:var(--ink)}
+.say b{font-weight:400;color:var(--gold)}
+.big{position:absolute;left:60px;right:60px;font-family:'Shaka',Georgia,serif;font-weight:400;line-height:.95;text-align:center;color:var(--ink);white-space:nowrap}
+.gold{color:var(--gold)}
+.center{text-align:center}
+.word{display:inline-block}
+
+/* hook: the 2 a.m. search */
+.search{position:absolute;left:70px;right:70px;top:560px;height:140px;display:flex;align-items:center;gap:28px;padding:0 46px;border-radius:70px;background:rgba(22,22,30,.92);box-shadow:0 0 0 2px rgba(255,255,255,.14),0 40px 120px -20px rgba(0,0,0,.9);font-family:'Martel',serif;font-size:52px;color:var(--ink)}
+.search svg{flex:none;width:46px;height:46px;stroke:var(--ink2);stroke-width:2.2;fill:none}
+.caret{display:inline-block;width:3px;height:52px;margin-left:4px;background:var(--gold);vertical-align:middle}
+.card{position:absolute;width:520px;padding:26px 30px;border-radius:22px;background:#15151d;box-shadow:0 0 0 2px rgba(255,255,255,.08),0 30px 60px -20px rgba(0,0,0,.9);font-family:'Martel',serif;font-size:34px;line-height:1.25;color:var(--ink)}
+.card small{display:block;margin-bottom:8px;font-family:'Geist Mono',monospace;font-size:18px;letter-spacing:.06em;color:var(--ink3);text-transform:uppercase}
+.count{position:absolute;left:0;right:0;top:150px;text-align:center;font-family:'Geist Mono',monospace;font-size:30px;letter-spacing:.06em;color:var(--ink2)}
+.count b{color:var(--ink);font-weight:500}
+
+/* the phone that shows the real site */
+.phone{position:absolute;width:452px;height:960px;border-radius:70px;padding:16px;background:#0c0c10;box-shadow:0 0 0 3px #2a2a33,0 0 0 5px #0a0a0d,0 60px 140px -30px rgba(0,0,0,.95);transform-style:preserve-3d}
+.phone .scr{position:relative;width:100%;height:100%;border-radius:56px;overflow:hidden;background:#000}
+.phone .scr img{display:block;width:100%;height:100%;object-fit:cover}
+.phone .island{position:absolute;left:50%;top:30px;width:120px;height:34px;margin-left:-60px;border-radius:20px;background:#000;z-index:2}
+.phone .glare{position:absolute;inset:16px;border-radius:56px;background:linear-gradient(115deg,rgba(255,255,255,.14),rgba(255,255,255,0) 40%);pointer-events:none}
+.chip{position:absolute;display:inline-flex;align-items:center;gap:14px;padding:12px 22px 12px 14px;border-radius:40px;background:rgba(14,13,20,.86);box-shadow:0 0 0 2px rgba(242,196,107,.55),0 20px 50px -10px rgba(0,0,0,.8);font-family:'Geist Mono',monospace;font-size:24px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink)}
+.chip i{display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:var(--gold);color:#1a1206;font-style:normal;font-weight:500;font-size:20px}
+
+/* the HUD, quiet in the corners, readable on dark and light */
+.hud{position:absolute;inset:0;z-index:50;pointer-events:none;mix-blend-mode:difference}
+.hud .mono{position:absolute;font-size:19px;color:#d9d4cb}
+.hud .tl{left:44px;top:40px}.hud .tr{right:44px;top:40px;text-align:right}.hud .bl{left:44px;bottom:40px}.hud .br{right:44px;bottom:40px}
+.hud .bar{position:absolute;left:44px;right:44px;bottom:28px;height:2px;background:rgba(217,212,203,.25)}
+.hud .bar i{display:block;height:100%;background:#d9d4cb}
+/* finishing: dust, light, grain and the flash on a hit */
+#dust,#grain{position:absolute;inset:0;width:1080px;height:1350px;pointer-events:none}
+#dust{z-index:40;mix-blend-mode:screen}
+#grain{z-index:60;mix-blend-mode:overlay;opacity:.22}
+.vig{position:absolute;inset:0;z-index:45;pointer-events:none;background:radial-gradient(120% 90% at 50% 45%,transparent 55%,rgba(0,0,0,.55) 100%)}
+.flash{position:absolute;inset:0;z-index:55;pointer-events:none;background:#fff6dc;opacity:0}
+.leak{position:absolute;z-index:44;pointer-events:none;width:1400px;height:1400px;border-radius:50%;background:radial-gradient(closest-side,rgba(255,170,70,.32),rgba(255,120,40,.1) 50%,transparent 70%);mix-blend-mode:screen}
+
+/* phonk opening: one piece of advice per beat, a post filling the frame */
+.qcard{position:absolute;left:90px;top:675px;width:900px;padding:54px 64px 50px;border-radius:44px;background:#15151d;box-shadow:0 0 0 2px rgba(255,255,255,.1),0 60px 140px -30px rgba(0,0,0,.95);font-family:'Martel',serif;font-weight:300;font-size:84px;line-height:1.14;color:var(--ink);transform-origin:50% 50%}
+.qcard small{display:block;margin-bottom:24px;font-family:'Geist Mono',monospace;font-size:26px;letter-spacing:.08em;color:var(--ink3);text-transform:uppercase}
+.qcard .meta{display:block;margin-top:30px;font-family:'Geist Mono',monospace;font-size:24px;letter-spacing:.06em;color:var(--ink3)}

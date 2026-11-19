@@ -1,0 +1,161 @@
+{
+  "id": "dhruva",
+  "title": "Scene 07 · Dhruva",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "d01",
+      "kw": "Two queens",
+      "feel": "quiet",
+      "pace": 0.84,
+      "img": "In a royal hall, King Uttanapada: black beard, gold crown, maroon robes sits on his throne with Queen Suruchi: proud queen in red silk with heavy jewels close at his side, while Queen Suniti: gentle queen in a simple white sari with a blue border stands alone far away near a pillar.",
+      "text": "King Uttanapada had two queens. Suruchi, whom he loved more… and Suniti, whom he hardly saw.",
+      "score": [
+        "sitar-bansuri",
+        100
+      ]
+    },
+    {
+      "k": "d02",
+      "kw": "Lap",
+      "feel": "tender",
+      "pace": 0.84,
+      "img": "King Uttanapada: black beard, gold crown, maroon robes on his throne holds a small prince on his lap, while Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet climbs up eagerly to sit on the king’s lap too.",
+      "text": "One day, Suniti’s five-year-old son, Dhruva, saw his half-brother sitting on their father’s lap… and he climbed up to sit there too."
+    },
+    {
+      "k": "d03",
+      "kw": "Pushed",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "Queen Suruchi: proud queen in red silk with heavy jewels pulls Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet away from the throne by the arm, pointing at him coldly, while the boy looks hurt.",
+      "text": "But Queen Suruchi pulled him away. You cannot sit there, she said. You were not born from me. If you want this place, go and pray to Vishnu."
+    },
+    {
+      "k": "d04",
+      "kw": "Silent",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "King Uttanapada: black beard, gold crown, maroon robes on his throne looks away in silence, saying nothing, while Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet stands before him with tears on his face.",
+      "text": "And the king… said nothing."
+    },
+    {
+      "k": "d05",
+      "kw": "Mother",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "In a simple room, Queen Suniti: gentle queen in a simple white sari with a blue border kneels and holds Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet, who cries in her arms; she strokes his hair gently.",
+      "text": "Dhruva ran to his mother, crying. Suniti held him, and did not say a bitter word. Go to the Lord, she said. Only he can give you a place no one can take away."
+    },
+    {
+      "k": "d06",
+      "kw": "Forest",
+      "feel": "firm",
+      "pace": 0.86,
+      "img": "Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet, very small, walks alone out of a palace gate toward a vast dark forest, determined.",
+      "text": "So the little boy walked out of the palace, alone… toward the forest."
+    },
+    {
+      "k": "d07",
+      "kw": "Narada",
+      "feel": "tender",
+      "pace": 0.84,
+      "img": "On a forest path, Narada: sage with a white beard, saffron robe, a veena resting on his shoulder bends down kindly to talk to Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet, one hand raised as if to say go home.",
+      "text": "On the way, the sage Narada met him. You are only a child, he said. The forest is hard. Go home."
+    },
+    {
+      "k": "d08",
+      "kw": "Mantra",
+      "feel": "resolve",
+      "pace": 0.86,
+      "img": "Narada: sage with a white beard, saffron robe, a veena resting on his shoulder sits with Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet under a tree, teaching him, one finger raised; the boy listens with folded hands and shining eyes.",
+      "text": "But Dhruva would not turn back. So Narada taught him a prayer: Om namo bhagavate Vasudevaya."
+    },
+    {
+      "k": "d09",
+      "kw": "Madhuvan",
+      "feel": "quiet",
+      "pace": 0.82,
+      "img": "In the forest of Madhuvan by the Yamuna river, Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet sits cross-legged in meditation under a great tree, tiny, eyes closed.",
+      "text": "In the forest of Madhuvan, by the Yamuna, Dhruva sat down to pray."
+    },
+    {
+      "k": "d10",
+      "kw": "Months",
+      "feel": "firm",
+      "pace": 0.84,
+      "img": "Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet meditates through the seasons: a single image showing rain, then falling leaves, then snow around him, while he stays still, thinner, eyes closed.",
+      "text": "First he ate only fruits. Then only leaves. Then only water. Then… only air."
+    },
+    {
+      "k": "d11",
+      "kw": "One foot",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet stands on one foot with hands folded above his head in deep meditation; the earth around him tilts and the trees lean, and small gods in the clouds above look on in wonder.",
+      "text": "He stood on one foot, so still… that it is said the whole earth tilted under him, and even the gods held their breath."
+    },
+    {
+      "k": "d12",
+      "kw": "Vishnu",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "Vishnu: blue-skinned, clean-shaven, four arms holding a conch, a discus, a mace and a lotus, tall gold crown, yellow silk appears in the forest, standing before Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet, glowing softly, the trees bowing around them.",
+      "text": "And Vishnu came. Not in a dream. Standing right before him… blue as the sky, with conch, discus, mace and lotus."
+    },
+    {
+      "k": "d13",
+      "kw": "Conch",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "Vishnu: blue-skinned, clean-shaven, four arms holding a conch, a discus, a mace and a lotus, tall gold crown, yellow silk gently touches the cheek of Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet with his white conch; the boy, wide-eyed, begins to sing with joy.",
+      "text": "Dhruva opened his eyes, and could not speak. So Vishnu touched his cheek with the conch… and the child’s heart poured out in song."
+    },
+    {
+      "k": "d14",
+      "kw": "Enough",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet kneels with folded hands at the feet of Vishnu: blue-skinned, clean-shaven, four arms holding a conch, a discus, a mace and a lotus, tall gold crown, yellow silk, smiling, tears of joy, as Vishnu rests a hand on his head.",
+      "text": "Dhruva had come for a place on his father’s lap. Now he wanted nothing else. He had found a love… no one could push him away from."
+    },
+    {
+      "k": "d15",
+      "kw": "Return",
+      "feel": "hopeful",
+      "pace": 0.86,
+      "img": "At the palace gates, King Uttanapada: black beard, gold crown, maroon robes runs with open arms to embrace Dhruva: boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet, while Queen Suniti: gentle queen in a simple white sari with a blue border watches, overjoyed, and people cheer.",
+      "text": "Vishnu sent him home with a blessing. And this time… his father ran to meet him at the gates."
+    },
+    {
+      "k": "d16",
+      "kw": "King",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "Dhruva grown up into a kind young king with a gold crown and a gentle face, seated on a throne, listening to ordinary people.",
+      "text": "Dhruva grew up to be a kind and just king."
+    },
+    {
+      "k": "d17",
+      "kw": "Pole star",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "A vast night sky full of stars turning in great circles around one bright, still star at the centre, the pole star; a small boat on a calm sea below finds its way by it.",
+      "text": "And at the end, Vishnu gave him a place in the sky that never moves. The pole star. Dhruva tara. Every other star turns around him."
+    },
+    {
+      "k": "d17",
+      "kw": "Home",
+      "feel": "peace",
+      "pace": 0.82,
+      "text": "Travellers once found their way home by that one star. The boy who was pushed away… became the light everyone finds their way by."
+    },
+    {
+      "k": "diya",
+      "kw": "Never lost",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… Whoever sees me everywhere, and sees everything in me… I am never lost to them. And they are never lost to me."
+    }
+  ]
+}

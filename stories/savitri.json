@@ -1,0 +1,162 @@
+{
+  "id": "savitri",
+  "title": "Scene 08 · Savitri",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "v01",
+      "kw": "Savitri",
+      "feel": "wonder",
+      "pace": 0.86,
+      "img": "In a palace, a king with a grey beard and gold crown holds up a newborn baby girl in wonder, light falling on her like sunrise.",
+      "text": "King Ashvapati prayed for years for a child. A daughter was born, so radiant… he named her after the goddess Savitri.",
+      "score": [
+        "alap",
+        120
+      ]
+    },
+    {
+      "k": "v02",
+      "kw": "Choose",
+      "feel": "resolve",
+      "pace": 0.86,
+      "img": "Savitri: young princess, long black hair in a braid, steady dark eyes, in an ivory sari with a red border, bows to her father the king, then sets out in a royal chariot with attendants toward distant forests.",
+      "text": "When she grew up, no one dared to ask for her hand. So her father said… go, and choose your own husband."
+    },
+    {
+      "k": "v03",
+      "kw": "Satyavan",
+      "feel": "tender",
+      "pace": 0.84,
+      "img": "In a forest clearing, Savitri: young princess, long black hair in a braid, steady dark eyes in an ivory sari with a red border watches Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes, who carries firewood and an axe and gently guides his blind old father by the hand beside a simple hut.",
+      "text": "In a forest, Savitri met Satyavan, a prince whose blind father had lost his kingdom. He cut wood, and cared for his parents. And she chose him."
+    },
+    {
+      "k": "v04",
+      "kw": "Warning",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "In the palace, Narada: sage with a white beard, saffron robe, a veena resting on his shoulder raises one finger in warning before the worried king, while Savitri: young princess, long black hair in a braid, steady dark eyes listens calmly.",
+      "text": "But the sage Narada warned: Satyavan is good, and noble… but he has one year to live. Not a day more."
+    },
+    {
+      "k": "v05",
+      "kw": "Once",
+      "feel": "firm",
+      "pace": 0.82,
+      "img": "Savitri: young princess, long black hair in a braid, steady dark eyes stands firm with her hand on her heart, speaking with quiet certainty to her father and Narada: sage with a white beard, saffron robe, a veena resting on his shoulder.",
+      "text": "Savitri said: I have chosen once. A heart chooses… only once."
+    },
+    {
+      "k": "v06",
+      "kw": "Forest",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "Savitri: young princess, long black hair in a braid, steady dark eyes, now in a plain ochre sari, serves food to an old blind couple outside a simple forest hut, while Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes smiles nearby.",
+      "text": "So she married him, left the palace, and lived in the forest, caring for his parents… counting the days in silence."
+    },
+    {
+      "k": "v07",
+      "kw": "Fast",
+      "feel": "quiet",
+      "pace": 0.82,
+      "img": "At night, Savitri: young princess, long black hair in a braid, steady dark eyes in a plain ochre sari stands still in prayer beside a small lamp, fasting, eyes closed, determined, the forest dark around her.",
+      "text": "Three days before the last day, she began a fast. She did not eat, barely slept… and prayed."
+    },
+    {
+      "k": "v08",
+      "kw": "Woods",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "Morning: Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes with his axe walks into the deep forest, and Savitri: young princess, long black hair in a braid, steady dark eyes in a plain ochre sari walks close beside him, watching him with quiet worry.",
+      "text": "On the last morning, when Satyavan went to cut wood… she went with him."
+    },
+    {
+      "k": "v09",
+      "kw": "Lap",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "Afternoon under a great tree: Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes lies with his head in the lap of Savitri: young princess, long black hair in a braid, steady dark eyes, eyes closing, his axe fallen beside him; she holds his face.",
+      "text": "In the afternoon, he said, my head hurts… and lay down with his head in her lap."
+    },
+    {
+      "k": "v10",
+      "kw": "Yama",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "Under the tree, Yama, lord of death: dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face appears and stands before Savitri: young princess, long black hair in a braid, steady dark eyes, who holds the still Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes in her lap and looks up at Yama without fear.",
+      "text": "Then she saw him. A dark figure in red, with a crown, and a noose in his hand. Yama… the lord of death."
+    },
+    {
+      "k": "v11",
+      "kw": "Taken",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "Yama, lord of death: dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face walks away toward the south carrying a tiny glowing soul, the size of a thumb, in his noose, while Savitri: young princess, long black hair in a braid, steady dark eyes kneels by the still body of Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes.",
+      "text": "Yama drew out Satyavan’s soul, no bigger than a thumb… and turned toward the south."
+    },
+    {
+      "k": "v12",
+      "kw": "Follow",
+      "feel": "resolve",
+      "pace": 0.84,
+      "img": "On a misty path through a dark forest, Yama, lord of death: dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face walks ahead, and Savitri: young princess, long black hair in a braid, steady dark eyes in a plain ochre sari follows him steadily, barefoot.",
+      "text": "And Savitri… followed him."
+    },
+    {
+      "k": "v13",
+      "kw": "Dharma",
+      "feel": "firm",
+      "pace": 0.84,
+      "img": "On the misty path, Yama, lord of death: dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face turns back and raises a hand, telling Savitri: young princess, long black hair in a braid, steady dark eyes to go back, while she speaks to him with calm, wise gestures.",
+      "text": "Go back, Yama said. You have done all a wife can do. But Savitri kept walking, and spoke of dharma, and friendship, and the good… so wisely, that he stopped."
+    },
+    {
+      "k": "v14",
+      "kw": "Boons",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "Yama, lord of death: dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face, softened, holds out an open hand offering a blessing to Savitri: young princess, long black hair in a braid, steady dark eyes, who stands with folded hands, thinking carefully.",
+      "text": "Pleased, Yama offered her boons. Anything but Satyavan’s life. She asked for her father-in-law’s sight… and his kingdom… and sons for her own father."
+    },
+    {
+      "k": "v15",
+      "kw": "Hundred sons",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "Savitri: young princess, long black hair in a braid, steady dark eyes speaks with a gentle, clever smile, and Yama, lord of death: dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face pauses, realising what she has asked.",
+      "text": "Yama granted them all. He offered one more. Then let me have a hundred sons, she said… with Satyavan."
+    },
+    {
+      "k": "v16",
+      "kw": "Won",
+      "feel": "joyful",
+      "pace": 0.86,
+      "img": "Yama, lord of death: dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face smiles and loosens his noose, releasing the small glowing soul back toward Savitri: young princess, long black hair in a braid, steady dark eyes, who folds her hands in gratitude.",
+      "text": "Yama smiled. He had been out-thought. He loosened the noose… and let Satyavan go."
+    },
+    {
+      "k": "v17",
+      "kw": "Waking",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "Evening under the great tree: Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes wakes with his head in the lap of Savitri: young princess, long black hair in a braid, steady dark eyes, as if from a long sleep, and she smiles through tears.",
+      "text": "In the forest, Satyavan woke with his head in her lap… as if from a long sleep."
+    },
+    {
+      "k": "v18",
+      "kw": "Home",
+      "feel": "hopeful",
+      "pace": 0.86,
+      "img": "Night: Satyavan: young man, clean-shaven, short black hair, simple brown cotton forest clothes and Savitri: young princess, long black hair in a braid, steady dark eyes walk home hand in hand through the forest by lamplight, and outside the hut an old man who can now see opens his arms to them.",
+      "text": "They walked home through the dark forest… and found his father could see again."
+    },
+    {
+      "k": "diya",
+      "kw": "Never dies",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… The soul is never born, and it never dies. It does not perish… when the body perishes."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "shabari",
+  "title": "Scene 10 · Shabari",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "b01",
+      "kw": "Shabari",
+      "feel": "quiet",
+      "pace": 0.84,
+      "img": "In a tribal village, Shabari: young tribal woman, dark skin, black hair in a bun, a simple brown-ochre sari, bead necklaces turns away from a wedding feast where animals are being prepared, sad, choosing to leave.",
+      "text": "The story goes that long ago, a young tribal woman named Shabari left her home… because she could not bear to see animals killed for her wedding feast.",
+      "score": [
+        "sitar-bansuri",
+        20
+      ]
+    },
+    {
+      "k": "b02",
+      "kw": "Matanga",
+      "feel": "firm",
+      "pace": 0.84,
+      "img": "Shabari: young tribal woman, dark skin, black hair in a bun, a simple brown-ochre sari, bead necklaces kneels with folded hands at the entrance of a forest hermitage before the old sage Matanga, who has a long white beard and a saffron robe.",
+      "text": "She walked into the forest, to the hermitage of the sage Matanga… and asked to serve."
+    },
+    {
+      "k": "b03",
+      "kw": "Serving",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "Shabari: young tribal woman, dark skin, black hair in a bun, a simple brown-ochre sari, bead necklaces quietly sweeps a forest path with a broom and carries water in a clay pot, in a peaceful hermitage among trees.",
+      "text": "She swept the paths. She fetched water. She did every small task, quietly… for years."
+    },
+    {
+      "k": "b04",
+      "kw": "Promise",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "The very old sage Matanga, lying on a mat near the end of his life, holds the hand of Shabari: young tribal woman, dark skin, black hair in a bun, a simple brown-ochre sari, bead necklaces and speaks to her, pointing toward the forest path.",
+      "text": "When the old sage was dying, he told her: one day, Rama himself will come to this place. Wait for him."
+    },
+    {
+      "k": "b05",
+      "kw": "Waiting",
+      "feel": "quiet",
+      "pace": 0.8,
+      "img": "Shabari: young tribal woman, dark skin, black hair in a bun, a simple brown-ochre sari, bead necklaces sits alone at the door of a small hut in the forest, looking down the empty path, the evening light fading.",
+      "text": "So Shabari waited."
+    },
+    {
+      "k": "b06",
+      "kw": "Flowers",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "At dawn, Shabari: young tribal woman, dark skin, black hair in a bun, a simple brown-ochre sari, bead necklaces sweeps the forest path and scatters fresh flowers along it, smiling softly.",
+      "text": "Every morning she swept the path he might walk on… and scattered fresh flowers on it."
+    },
+    {
+      "k": "b07",
+      "kw": "Berries",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "In the forest, Shabari: young tribal woman, dark skin, black hair in a bun, a simple brown-ochre sari, bead necklaces picks wild berries from a bush and tastes one carefully, putting only the sweet ones into a small leaf bowl.",
+      "text": "Every day she gathered berries for him… and tasted each one, so that she would only offer him the sweet ones."
+    },
+    {
+      "k": "b08",
+      "kw": "Years",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes sits at the door of her small forest hut, still watching the path, fresh flowers on the ground, autumn leaves falling.",
+      "text": "Days became years. Years became decades. Her hair turned white. Her back bent. Still… she waited."
+    },
+    {
+      "k": "b09",
+      "kw": "Laughed",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "Two passing young men point and laugh at Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes, who sweeps the forest path anyway, calm and patient.",
+      "text": "Some people laughed at her. A prince… coming here? To an old woman’s hut?"
+    },
+    {
+      "k": "b10",
+      "kw": "Footsteps",
+      "feel": "wonder",
+      "pace": 0.86,
+      "img": "Down the flower-strewn forest path walk two young men in forest clothes with bows: Rama: blue-skinned young prince, clean-shaven, long hair tied up, a bow on his shoulder, simple forest clothes of bark-coloured cloth; Lakshmana: fair-skinned young prince, clean-shaven, hair tied up, a bow, simple forest clothes. In the foreground, Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes stands up in wonder.",
+      "text": "And then one day… two young men walked down the path. Rama… and his brother Lakshmana."
+    },
+    {
+      "k": "b11",
+      "kw": "Feet",
+      "feel": "tender",
+      "pace": 0.8,
+      "img": "Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes kneels and touches the feet of Rama: blue-skinned young prince, clean-shaven, long hair tied up, a bow on his shoulder, simple forest clothes of bark-coloured cloth, weeping with joy, while Rama bends down to lift her; Lakshmana stands behind.",
+      "text": "Shabari fell at Rama’s feet, weeping. She had waited her whole life… for this moment."
+    },
+    {
+      "k": "b12",
+      "kw": "Enough?",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes holds out a small leaf bowl of wild berries to Rama: blue-skinned young prince, clean-shaven, long hair tied up, a bow on his shoulder, simple forest clothes of bark-coloured cloth, her hands trembling, worried and shy.",
+      "text": "She offered him her berries, the ones she had tasted… and suddenly she was afraid. Were they good enough?"
+    },
+    {
+      "k": "b13",
+      "kw": "Sweetest",
+      "feel": "joyful",
+      "pace": 0.86,
+      "img": "Rama: blue-skinned young prince, clean-shaven, long hair tied up, a bow on his shoulder, simple forest clothes of bark-coloured cloth sits on a simple mat outside the hut eating berries from the leaf bowl with a warm smile, while Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes watches with tears of joy and Lakshmana: fair-skinned young prince, clean-shaven, hair tied up, a bow, simple forest clothes looks on.",
+      "text": "Rama ate them all, with joy. He said he had never tasted anything sweeter… because they were offered with love."
+    },
+    {
+      "k": "b14",
+      "kw": "The way",
+      "feel": "hopeful",
+      "pace": 0.84,
+      "img": "Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes points into the distance toward far mountains, guiding Rama: blue-skinned young prince, clean-shaven, long hair tied up, a bow on his shoulder, simple forest clothes of bark-coloured cloth and Lakshmana: fair-skinned young prince, clean-shaven, hair tied up, a bow, simple forest clothes, who listen carefully.",
+      "text": "Then Shabari told Rama the way to Sugriva and Hanuman… the path that would lead him to Sita."
+    },
+    {
+      "k": "b15",
+      "kw": "Complete",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Shabari: the same tribal woman grown very old, dark wrinkled skin, white hair in a bun, bent back, a simple brown-ochre sari, bead necklaces, kind eyes sits peacefully with folded hands before a small sacred fire at dusk, glowing with calm, as Rama: blue-skinned young prince, clean-shaven, long hair tied up, a bow on his shoulder, simple forest clothes of bark-coloured cloth raises his hand in blessing.",
+      "text": "And her waiting was complete. The story goes that she entered the sacred fire… and rose to the highest heaven."
+    },
+    {
+      "k": "b06",
+      "kw": "Love",
+      "feel": "tender",
+      "pace": 0.8,
+      "text": "Shabari had no wealth, no learning, no family name. Only her love… and her patience."
+    },
+    {
+      "k": "diya",
+      "kw": "Dear to me",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… Fix your mind on me, love me… and you will come to me. I promise you truly. For you are dear to me."
+    }
+  ]
+}

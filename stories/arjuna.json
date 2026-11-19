@@ -1,0 +1,166 @@
+{
+  "id": "arjuna",
+  "title": "Scene 01 · Arjuna",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "a01",
+      "kw": "Kurukshetra",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "Dawn over the vast open plain of Kurukshetra. Two enormous armies face each other from opposite sides: endless rows of soldiers, spears, banners, war elephants and chariots, with an empty strip of dusty ground between them. Tiny figures, huge sky, the sun just rising on the horizon.",
+      "text": "Long ago… on the field of Kurukshetra… two great armies stood facing each other. Cousins against cousins. Family… against family.",
+      "score": [
+        "alap",
+        0
+      ]
+    },
+    {
+      "k": "a02",
+      "kw": "Archer",
+      "feel": "grand",
+      "pace": 0.88,
+      "img": "Arjuna, a young warrior prince with long black hair, a gold crown, gold armour over a red dhoti, stands tall and proud on a gilded war chariot, holding up his great bow Gandiva. A saffron flag with the image of Hanuman flies above the chariot. Army banners behind him.",
+      "text": "On one side stood Arjuna… the greatest archer alive. Brave… skilled… and ready for this day, for years."
+    },
+    {
+      "k": "a03",
+      "kw": "Charioteer",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "Krishna, blue-skinned, with a peacock feather in his gold crown and yellow silk robes, sits at the front of the gilded chariot holding the reins of four white horses. He glances back over his shoulder with a calm, warm smile. Arjuna is behind him.",
+      "text": "And holding the reins of his chariot… was his dearest friend. Krishna."
+    },
+    {
+      "k": "a04",
+      "kw": "Between",
+      "feel": "tense",
+      "pace": 0.88,
+      "img": "The gilded chariot with four white horses, driven by blue-skinned Krishna with Arjuna standing behind, rolls out alone into the empty dusty ground between the two huge armies. Dust rising from the wheels, both armies watching.",
+      "text": "Arjuna said… Krishna, take my chariot into the middle. I want to see who I am fighting."
+    },
+    {
+      "k": "a05",
+      "kw": "Faces",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "View across the field into the front ranks of the enemy army. In front stand old Bhishma, a tall grandfather with a long white beard and white robes holding a bow, and the teacher Drona, an older brahmin warrior with a grey beard and a bow. Behind them, young cousins in armour. Their faces are sad and familiar.",
+      "text": "And there they were. His grandfather Bhishma… who had held him as a baby. His teacher Drona… who had taught him to shoot. Cousins. Friends."
+    },
+    {
+      "k": "a06",
+      "kw": "Shaking",
+      "feel": "tense",
+      "pace": 0.84,
+      "img": "Close-up of a young warrior's trembling hands with gold armlets, the great bow Gandiva slipping out of his fingers and falling, arrows spilling from the quiver. Motion lines show the shaking.",
+      "text": "His hands began to shake. His mouth went dry. And the mighty bow Gandiva… slipped from his fingers."
+    },
+    {
+      "k": "chariot",
+      "kw": "Down",
+      "feel": "heavy",
+      "pace": 0.8,
+      "text": "Arjuna sat down in the chariot… right in the middle of the battlefield. I will not fight, he said. I cannot."
+    },
+    {
+      "k": "a07",
+      "kw": "Stuck",
+      "feel": "heavy",
+      "pace": 0.8,
+      "img": "Arjuna sits on the floor of the chariot with his head in his hands, his crown tilted, his bow lying beside him. Around him the whole battlefield seems frozen and still: banners hang limp, dust hangs in the air, both armies waiting.",
+      "text": "Every road in front of him looked wrong. Fight… and lose everyone he loved. Walk away… and abandon everything he stood for."
+    },
+    {
+      "k": "a08",
+      "kw": "Smile",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "On the chariot, blue-skinned Krishna with a peacock feather crown turns and leans close to the seated, grieving Arjuna, one hand on his shoulder, with a gentle, almost amused smile. Arjuna looks up at him with wet eyes.",
+      "text": "The Gita says Krishna looked at his friend… and smiled. Not because the pain was small. Because he knew Arjuna was bigger than it."
+    },
+    {
+      "k": "a09",
+      "kw": "Eternal",
+      "feel": "sacred",
+      "pace": 0.8,
+      "img": "In deep darkness, one small clay oil lamp passes its flame to another clay lamp held close to it; the flame leaps between the two wicks. Two hands hold the lamps. Night sky with small gold stars.",
+      "text": "You grieve for those who should not be grieved for, he said. What is truly you… was never born. And it will never die."
+    },
+    {
+      "k": "a10",
+      "kw": "Your part",
+      "feel": "calm",
+      "pace": 0.82,
+      "img": "Close-up of an archer's hand with a gold armlet that has just released an arrow: the fingers open and relaxed, the bowstring still vibrating, the arrow flying away into a wide morning sky. The archer does not chase it.",
+      "text": "You have a right to your actions… but never to their fruits. Do your part. And let go of the result."
+    },
+    {
+      "k": "a11",
+      "kw": "Doubt",
+      "feel": "heavy",
+      "pace": 0.84,
+      "img": "Arjuna sits on the chariot step, listening to Krishna who is speaking with one hand raised in teaching. Arjuna's brow is furrowed and uncertain, his hands clasped. Dark storm clouds gather behind him over the battlefield.",
+      "text": "Arjuna listened. He asked question after question. Still… his heart could not see what Krishna was seeing."
+    },
+    {
+      "k": "deity",
+      "kw": "Show me",
+      "feel": "wonder",
+      "pace": 0.84,
+      "text": "So he asked for one thing. If I am worthy… show me who you really are."
+    },
+    {
+      "k": "vishvarupa",
+      "kw": "Universe",
+      "feel": "grand",
+      "pace": 0.86,
+      "text": "And Krishna showed him. Suns… and galaxies. Every life, every age… every ending and every beginning… all moving inside his friend."
+    },
+    {
+      "k": "a12",
+      "kw": "Awe",
+      "feel": "wonder",
+      "pace": 0.82,
+      "img": "A tiny Arjuna kneels on the battlefield with hands folded, looking up in awe at the towering cosmic form of Krishna that fills the whole sky: many heads and arms, suns and planets and stars inside his body, rays of gold.",
+      "text": "Arjuna trembled. This was the friend he had joked with… eaten with… argued with. He had never known how big he was."
+    },
+    {
+      "k": "a03",
+      "kw": "Friend",
+      "feel": "tender",
+      "pace": 0.82,
+      "text": "Please, Arjuna whispered… become my friend again. And Krishna became Krishna again. Gentle… smiling… holding the reins."
+    },
+    {
+      "k": "a13",
+      "kw": "Clear",
+      "feel": "hopeful",
+      "pace": 0.86,
+      "img": "Morning sunlight breaks through the dust over the battlefield of Kurukshetra in long golden rays. The chariot stands in the middle, small, lit by the light. The storm clouds are parting.",
+      "text": "Something in Arjuna settled. The fear did not vanish. But it no longer decided for him."
+    },
+    {
+      "k": "a14",
+      "kw": "Rise",
+      "feel": "resolve",
+      "pace": 0.86,
+      "img": "Arjuna stands upright on the chariot, calm and resolved, lifting his great bow Gandiva again, his gold crown straight, his face steady and clear. Krishna at the reins looks back at him with quiet pride.",
+      "text": "My confusion is gone, he said. My memory is back. I stand firm. I will do what must be done."
+    },
+    {
+      "k": "a15",
+      "kw": "Together",
+      "feel": "warm",
+      "pace": 0.84,
+      "img": "Seen from behind, blue-skinned Krishna at the reins and Arjuna standing beside him ride the gilded chariot forward together into the bright morning, four white horses, the Hanuman flag flying, dust glowing in the light.",
+      "text": "The greatest archer alive had not needed a better bow. He had needed a friend… who would not leave the chariot."
+    },
+    {
+      "k": "diya",
+      "kw": "Yours",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "And when you feel stuck… in the middle of your own life… that friend has not left yours either."
+    }
+  ]
+}

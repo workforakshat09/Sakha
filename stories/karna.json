@@ -1,0 +1,161 @@
+{
+  "id": "karna",
+  "title": "Scene 06 · Karna",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "k01",
+      "kw": "Sun",
+      "feel": "wonder",
+      "pace": 0.86,
+      "img": "Dawn on a palace terrace: Kunti: young princess in a pale blue sari, hands folded, looks up in awe as the Sun god, a radiant figure in gold within a great sun disc, appears in the sky before her.",
+      "text": "Long before the great war… a young princess named Kunti was given a mantra that could call any god. Curious, she called the Sun.",
+      "score": [
+        "alap",
+        40
+      ]
+    },
+    {
+      "k": "k02",
+      "kw": "Born",
+      "feel": "tender",
+      "pace": 0.84,
+      "img": "Kunti: young princess in a pale blue sari holds a newborn baby wrapped in cloth; the baby already has large gold sun-shaped earrings and a small gold armour plate on his chest, glinting.",
+      "text": "And she was given a son… born with golden armour on his chest, and golden earrings, shining like the sun itself."
+    },
+    {
+      "k": "k03",
+      "kw": "River",
+      "feel": "grief",
+      "pace": 0.82,
+      "img": "At night by a river, Kunti: young princess in a pale blue sari, weeping, lets go of a small woven basket carrying a baby, floating away on the dark water.",
+      "text": "But Kunti was young, and unmarried, and afraid. She placed the baby in a basket… and let the river carry him away."
+    },
+    {
+      "k": "k04",
+      "kw": "Radha",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "Morning at a riverbank: Adhiratha and Radha: a humble charioteer couple in simple brown and orange cotton clothes lift a baby from a woven basket among the reeds, overjoyed; the baby wears gold earrings.",
+      "text": "Downstream, a charioteer named Adhiratha and his wife Radha found the basket. They raised the boy as their own… and loved him."
+    },
+    {
+      "k": "k05",
+      "kw": "Bow",
+      "feel": "hopeful",
+      "pace": 0.88,
+      "img": "A boy about twelve with dark-brown skin, gold sun-shaped earrings and a small gold armour plate on his chest practises archery alone at dawn, aiming at a target on a tree, many arrows around.",
+      "text": "Karna grew up with one dream: to be the greatest archer in the world. He practised from dawn… to dusk."
+    },
+    {
+      "k": "k06",
+      "kw": "Refused",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "At the gate of a royal training ground, a stern old teacher in white raises his hand to stop a youth (dark-brown skin, gold sun earrings, gold chest armour plate, simple clothes) from entering, while royal princes practise inside.",
+      "text": "But he was a charioteer’s son. The story goes that the royal teacher turned him away. Princes only."
+    },
+    {
+      "k": "k07",
+      "kw": "Disguise",
+      "feel": "heavy",
+      "pace": 0.84,
+      "img": "In a mountain hermitage, Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti, now dressed as a humble brahmin student with a sacred thread, bows before Parashurama: old sage, long white beard and matted hair, saffron robe, a large axe beside him.",
+      "text": "So he went to the great sage Parashurama, who taught only brahmins… and Karna said he was one."
+    },
+    {
+      "k": "k08",
+      "kw": "Sting",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "Afternoon under a tree: Parashurama: old sage, long white beard and matted hair, saffron robe, a large axe beside him sleeps with his head on the lap of Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti; a large insect bites Karna’s thigh and blood runs, but Karna stays perfectly still, enduring the pain.",
+      "text": "One afternoon the old teacher slept with his head on Karna’s lap. An insect bit deep into Karna’s thigh. He did not move… so his teacher could rest."
+    },
+    {
+      "k": "k09",
+      "kw": "Curse",
+      "feel": "grief",
+      "pace": 0.82,
+      "img": "Parashurama: old sage, long white beard and matted hair, saffron robe, a large axe beside him, now awake and angry, points at Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti, who kneels with head bowed; blood on the ground.",
+      "text": "Parashurama woke, saw the blood, and knew. No brahmin could bear such pain. Angry at the lie, he cursed him: when you need your knowledge most… you will forget it."
+    },
+    {
+      "k": "k10",
+      "kw": "Arena",
+      "feel": "grand",
+      "pace": 0.88,
+      "img": "A great royal tournament arena full of spectators: Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti strides in with his bow raised, every eye on him, banners flying.",
+      "text": "Years later, at a great tournament, Karna walked into the arena… and matched every feat of the prince Arjuna."
+    },
+    {
+      "k": "k11",
+      "kw": "Lineage",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "In the arena, Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti lowers his bow and his head, as an elder in white points at him questioning, and the crowd laughs and jeers.",
+      "text": "Then came the question. Who is your father? What is your family? And Karna lowered his bow… because the answer was a charioteer."
+    },
+    {
+      "k": "k12",
+      "kw": "Anga",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "In the arena, Duryodhana: proud prince, thick black moustache, heavy gold crown, dark green and gold robes, gold mace places a gold crown on the head of Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti, crowning him king, the two clasping arms as friends.",
+      "text": "Then prince Duryodhana stood up, and made Karna a king, of the land of Anga, right there and then. From that day, Karna was his friend for life."
+    },
+    {
+      "k": "k13",
+      "kw": "Giving",
+      "feel": "sacred",
+      "pace": 0.84,
+      "img": "At a riverbank at dawn, Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti holds out the gold armour plate he has just cut from his own chest, offering it to an old brahmin with a staff, who is the god Indra in disguise; a faint glow behind the brahmin.",
+      "text": "Karna never refused anyone who asked. When the god Indra came disguised as a brahmin and asked for his golden armour and earrings… Karna cut them from his own body, and gave them."
+    },
+    {
+      "k": "k14",
+      "kw": "Truth",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "By a chariot, Krishna: blue-skinned young man, clean-shaven, long black curly hair, tall gold crown with one peacock feather, yellow silk dhoti and a jewelled royal shawl, white-and-marigold flower garland, white U-shaped tilak rests a hand on the shoulder of Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti, speaking to him earnestly; Karna listens, stunned.",
+      "text": "Before the war, Krishna told Karna the secret. You are Kunti’s eldest son. The Pandavas are your brothers. Come with them… and you will be king."
+    },
+    {
+      "k": "k15",
+      "kw": "Mother",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "At a river at sunrise, Kunti: gentle royal woman, plain white sari, grey in her hair reaches out to Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti, who stands in the shallow water after his prayer to the Sun; both have tears in their eyes.",
+      "text": "Then Kunti herself came to him at the river, where he prayed to the Sun. For the first time… his mother called him son."
+    },
+    {
+      "k": "k16",
+      "kw": "Loyal",
+      "feel": "firm",
+      "pace": 0.82,
+      "img": "Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti stands tall and firm at the river, one hand on his heart, gently refusing Kunti: gentle royal woman, plain white sari, grey in her hair, who bows her head.",
+      "text": "Karna said no. Duryodhana stood by me when no one else did. I will not leave him now. But he made his mother a promise: of your sons… I will face only Arjuna."
+    },
+    {
+      "k": "k17",
+      "kw": "Wheel",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "Sunset on a battlefield: the wheel of a war chariot is sunk deep in the mud, and Karna: tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun-shaped earrings, red dhoti strains to lift it with both hands, alone, his bow on the ground.",
+      "text": "In the war, his chariot wheel sank into the earth… and his learning left him, as the curse had said. And Karna fell."
+    },
+    {
+      "k": "k14",
+      "kw": "Who you are",
+      "feel": "sacred",
+      "pace": 0.8,
+      "text": "The world kept asking Karna where he came from. Krishna only asked him… to see who he truly was."
+    },
+    {
+      "k": "diya",
+      "kw": "Same",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… The wise see the same in a learned priest, a cow, an elephant, a dog… and the one the world calls an outcaste."
+    }
+  ]
+}

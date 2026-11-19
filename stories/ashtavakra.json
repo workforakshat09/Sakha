@@ -1,0 +1,138 @@
+{
+  "id": "ashtavakra",
+  "title": "Scene 12 · Ashtavakra",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "t01",
+      "kw": "Listening",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "At night in a hermitage, a learned brahmin with a black beard recites from palm-leaf texts by lamplight, while his pregnant wife sits beside him, and a faint glowing image of a baby listens from within her.",
+      "text": "Long ago, a learned man named Kahoda recited the Vedas each night. And his unborn son, listening from the womb… corrected his mistakes.",
+      "score": [
+        "alap",
+        100
+      ]
+    },
+    {
+      "k": "t02",
+      "kw": "Eight bends",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "In a simple hermitage, a mother gently holds her newborn baby, whose small body is bent and crooked, and looks at him with love.",
+      "text": "His father, embarrassed and angry, cursed him. And the baby was born with his body bent in eight places. They named him Ashtavakra… eight bends."
+    },
+    {
+      "k": "t03",
+      "kw": "Lost",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "In a royal court, a learned brahmin with a black beard bows his head in defeat before Bandi: proud court scholar with a long black beard, saffron robe and palm-leaf books, and guards lead him away toward the water.",
+      "text": "Before he was born, his father had gone to King Janaka’s court, lost a debate to the scholar Bandi… and was sent into the waters, the price for the loser."
+    },
+    {
+      "k": "t04",
+      "kw": "Learning",
+      "feel": "tender",
+      "pace": 0.84,
+      "img": "Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes studies palm-leaf texts with great focus in a forest hermitage, while an old sage and a young man listen, impressed.",
+      "text": "Ashtavakra grew up not knowing. He studied day and night… and became wiser than men three times his age."
+    },
+    {
+      "k": "t05",
+      "kw": "The truth",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes sits stunned and sad as his mother tells him something, holding his hand, in a hermitage at dusk.",
+      "text": "When he was twelve, he learned what had happened to his father."
+    },
+    {
+      "k": "t06",
+      "kw": "The road",
+      "feel": "resolve",
+      "pace": 0.86,
+      "img": "Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes walks along a long road with his wooden staff toward a distant royal city, determined.",
+      "text": "So the boy with the bent body set out… for King Janaka’s court."
+    },
+    {
+      "k": "t07",
+      "kw": "The gate",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "At a palace gate, tall guards laugh and block the way of Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes, pointing at him.",
+      "text": "At the gate, the guards laughed. Children are not allowed in the hall of scholars."
+    },
+    {
+      "k": "t08",
+      "kw": "The elder",
+      "feel": "firm",
+      "pace": 0.84,
+      "img": "Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes stands calm and tall in spirit before the palace guards, speaking firmly, one hand raised, and the guards fall silent.",
+      "text": "Ashtavakra said: a person is not old because of grey hair. The one who knows… is the elder."
+    },
+    {
+      "k": "t09",
+      "kw": "Laughter",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "In a grand royal hall full of scholars in white and saffron, everyone bursts out laughing and pointing at Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes as he walks in with his staff.",
+      "text": "When he walked into the hall, every scholar burst out laughing… at his crooked body."
+    },
+    {
+      "k": "t10",
+      "kw": "Skin",
+      "feel": "firm",
+      "pace": 0.84,
+      "img": "In the royal hall, Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes laughs back calmly at the scholars, who stop and stare, embarrassed.",
+      "text": "And then Ashtavakra laughed too. The story goes he said: I thought I had come to a gathering of the wise. But you only see skin and bones."
+    },
+    {
+      "k": "t11",
+      "kw": "Bowed",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "King Janaka: wise king with a grey beard, gold crown, white and gold robes comes down from his throne and bows respectfully to Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes, as the hall falls silent.",
+      "text": "The hall fell silent. King Janaka came down from his throne… and bowed to the boy."
+    },
+    {
+      "k": "t12",
+      "kw": "Debate",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "In the royal hall, Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes debates Bandi: proud court scholar with a long black beard, saffron robe and palm-leaf books, the boy speaking with confidence while the proud scholar looks defeated, the court watching.",
+      "text": "Then he faced Bandi, the great scholar, in debate… and won."
+    },
+    {
+      "k": "t13",
+      "kw": "Father",
+      "feel": "joyful",
+      "pace": 0.86,
+      "img": "At the edge of a river, a brahmin with a black beard rises from the water and embraces Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes, both weeping with joy.",
+      "text": "And his father came back from the waters… alive."
+    },
+    {
+      "k": "t14",
+      "kw": "Samanga",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Ashtavakra: boy about twelve, thin, his body visibly bent and crooked in several places, leaning on a wooden staff, dark curly hair tied up, white dhoti, bright intelligent eyes steps out of a sacred river at sunrise, and his body is now straight and whole, his face peaceful, his father watching from the bank.",
+      "text": "The story goes that his father told him to bathe in the river Samanga. And when he came out… his body was straight."
+    },
+    {
+      "k": "t15",
+      "kw": "Witness",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Ashtavakra, now a calm young sage in white robes, sits teaching King Janaka: wise king with a grey beard, gold crown, white and gold robes, who sits humbly as his student in a garden at dusk.",
+      "text": "Later, King Janaka became his student. Their talks became the Ashtavakra Gita: you are not the body… you are the one who watches."
+    },
+    {
+      "k": "diya",
+      "kw": "The knower",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… This body is called the field. And the one who knows it… is called the knower of the field."
+    }
+  ]
+}

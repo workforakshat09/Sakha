@@ -1,0 +1,43 @@
+# Character sheet
+
+Paste a character's line into every image prompt where they appear, word for word. Image prompts are text-only, so this fixed wording is the only thing that keeps a face the same from one painting to the next.
+
+- **Krishna:** blue-skinned young man, clean-shaven, long black curly hair, tall gold crown with one peacock feather, yellow silk dhoti and shawl, white-and-marigold flower garland, white U-shaped tilak.
+- **Arjuna:** young warrior prince, fair-brown skin, completely clean-shaven (no moustache, no beard), long wavy black hair to the shoulders, tall pointed gold crown, gold scale armour, red dhoti and red cape. Never takes the reins; Krishna drives the chariot.
+- **Bhishma / Drona:** Bhishma: tall old man, long white beard, white robes, bow. Drona: older brahmin, grey beard, sacred thread, bow.
+- **Hanuman:** monkey face the same golden-brown as his fur (no white muzzle), golden-brown fur, muscular, long curling tail, red-orange dhoti, gold armlets, gold mace. Before Jambavan reminds him: a short gold crown band with his hair tied in a topknot above it. From "Spark" onward: a tall gold crown. As a baby: no crown, tiny gold halo.
+- **Jambavan:** old bear king, dark fur, white muzzle and long white beard, dark blue robe with gold border, wooden staff.
+- **Rama / Lakshmana / Sita:** Rama: blue-skinned, clean-shaven, hair tied up, bow, forest clothes. Lakshmana: fair-skinned, clean-shaven, bow. Sita: gentle young woman, simple ivory sari.
+- **Prahlad:** boy about seven, dark curly hair to the jaw, small tilak, bare-chested, saffron dhoti, beaded necklace.
+- **Hiranyakashipu:** enormous asura king, near-black skin (never grey or blue), thick black beard and moustache, small fangs, heavy gold crown, black-and-gold robes.
+- **Holika:** tall woman, long dark hair, small gold crown, black-and-gold sari, heavy gold jewellery; magic shawl of gold patterned with teal.
+- **Narasimha:** lion head with a great golden mane, man's body, four arms holding a discus and a conch, gold crown, white-and-marigold garland, white dhoti.
+- **Meera (adult):** young woman in her twenties, long black hair, gentle oval face, ivory-white sari with a gold border over her head, small gold earrings. Bridal red only in the wedding scene; no grey hair even late in the story.
+- **Meera (child):** girl about six, long black hair in a single braid, ivory dress, holding a small Krishna idol.
+- **Young Krishna (student):** boy about twelve, blue skin, clean-shaven, black curly hair tied up with one peacock feather, simple yellow dhoti, no crown.
+- **Krishna as king of Dwarka:** the Krishna line above, with a jewelled royal shawl.
+- **Sudama:** thin poor brahmin man in his forties, shaven head with a small tuft (shikha), short grey-black beard, sandalwood tilak, sacred thread, torn white dhoti and patched white shawl, bare feet. As a boy: thin boy about twelve, shaven head with a tuft, white dhoti.
+- **Sushila (Sudama's wife):** thin woman in her thirties, faded red cotton sari, kind tired face, hair in a plain bun.
+- **Karna:** tall young warrior, dark-brown skin, clean-shaven, long black hair, a gold armour plate grown onto his chest and large gold sun earrings, red dhoti, bow. As a baby and boy: the same gold earrings and a small gold armour plate on his chest. After he gives them to Indra (from the scene "Giving" on): no armour and no earrings, bare chest with plain gold armlets.
+- **Kunti:** gentle royal woman; as a young princess, a pale blue sari; later, a plain white sari with grey in her hair.
+- **Adhiratha and Radha:** a humble charioteer couple in simple brown and orange cotton clothes.
+- **Duryodhana:** proud prince, thick black moustache, heavy gold crown, dark green and gold robes, gold mace.
+- **Parashurama:** old sage, long white beard and matted hair, saffron robe, a large axe.
+- **Dhruva:** boy about five, dark hair tied in a small topknot, saffron dhoti, small tilak, bare feet.
+- **Uttanapada / Suruchi / Suniti:** King: black beard, gold crown, maroon robes. Suruchi: proud queen in red silk with heavy jewels. Suniti: gentle queen in a simple white sari with a blue border.
+- **Narada:** sage with a white beard, saffron robe, a veena resting on his shoulder.
+- **Vishnu:** blue-skinned, clean-shaven, four arms holding a conch, a discus, a mace and a lotus, tall gold crown, yellow silk.
+- **Savitri:** young princess, long black hair in a braid, steady dark eyes, ivory sari with a red border; in the forest, a plain ochre sari.
+- **Satyavan:** young man, clean-shaven, short black hair, simple forest clothes of brown cotton, carries an axe for cutting wood.
+- **Yama:** lord of death, dark green skin, gold crown, red robes, a rope noose in his hand, calm stern face.
+- **Ratnakara / Valmiki:** as the robber, a rough muscular man, dark skin, wild long black hair and thick black beard, animal-skin waist cloth, an axe. As the sage, the same face grown old and gentle, long black-and-white beard, matted hair tied up, saffron robe, rudraksha beads.
+- **Shabari:** young: tribal woman, dark skin, black hair in a bun, simple brown-ochre sari, bead necklaces. Old: the same woman with white hair, wrinkled kind face and a bent back.
+- **Shiva:** blue-grey skin, matted hair piled up with a crescent moon, a snake around his neck, tiger-skin cloth, a trident, calm face. **Parvati:** red silk sari, gold jewellery and crown.
+- **Ganesha:** young god, elephant head with one broken tusk, round belly, red dhoti, small gold crown, four arms, a mouse as his ride. **Kartikeya:** handsome young warrior god, clean-shaven, gold crown, a spear, rides a great peacock.
+- **Ashtavakra:** boy about twelve, thin, body visibly bent in several places, wooden staff, dark curly hair tied up, white dhoti, bright eyes; straight-bodied young sage in white after the river Samanga. **Janaka:** grey beard, gold crown, white and gold robes. **Bandi:** proud scholar, long black beard, saffron robe.
+- **Ravana:** ten-headed demon king of Lanka, dark brown skin, a thick black moustache on every face, ten gold crowns, black-and-gold armour, many arms holding weapons.
+- **Durga:** calm, powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, rides a golden lion.
+- **Brahma:** four faces with white beards, four gold crowns, red robes, seated on a pink lotus.
+- **Rama (Akaal Bodhan story):** the Rama line above, with large lotus-shaped eyes and ochre forest clothes, a great bow and quiver.
+- **King Hima:** older Indian king, warm brown skin, grey beard, tall Indian gold mukut crown, deep blue silk angavastram (never a European crown or robe). **His son:** Indian, about sixteen, warm brown skin, clean-shaven, short black hair, small gold mukut, white silk dhoti. **The princess:** Indian, long black hair in a braid, clever eyes, red sari with a gold border, small gold nose ring.
+- **Yama as a serpent:** a great dark-green serpent wearing a small gold crown (his green skin and crown carry over from his own form).

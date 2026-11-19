@@ -1,0 +1,182 @@
+{
+  "id": "hanuman",
+  "title": "Scene 03 · Hanuman",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "h01",
+      "kw": "Child",
+      "feel": "joyful",
+      "pace": 0.88,
+      "img": "Baby Hanuman, a small laughing monkey child with golden-brown fur, a long curling tail and a tiny gold halo, tumbles playfully on a mountain top at dawn. Wind swirls around him, leaves flying.",
+      "text": "Long before he was a hero… Hanuman was a child. The son of the wind. Full of mischief… and full of a power he did not understand.",
+      "score": [
+        "sitar-bansuri",
+        90
+      ]
+    },
+    {
+      "k": "h02",
+      "kw": "Sun",
+      "feel": "wonder",
+      "pace": 0.88,
+      "img": "Baby Hanuman, a small monkey child with golden-brown fur and a long tail, leaps high into the sky with arms stretched out toward an enormous rising sun that looks like a ripe golden mango. Clouds below him, mountains far below.",
+      "text": "One morning he saw the rising sun… and thought it was a ripe mango. So he jumped. All the way into the sky… to eat it."
+    },
+    {
+      "k": "h03",
+      "kw": "Struck",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "High in a stormy sky, Indra, the king of the gods, riding his white elephant Airavata, hurls a jagged golden thunderbolt that strikes the baby monkey Hanuman on the jaw. Swirling storm clouds, the sun behind.",
+      "text": "Indra, king of the gods, struck him with a thunderbolt to stop him. It hit his jaw… his hanu. And that is how he got his name."
+    },
+    {
+      "k": "h04",
+      "kw": "Forget",
+      "feel": "quiet",
+      "pace": 0.84,
+      "img": "In a forest hermitage, three old sages with white beards and matted hair raise their palms in blessing over a sleeping baby monkey Hanuman curled on a deerskin. A faint golden glow fades from the child, like a light being put away.",
+      "text": "Many tellings say the sages… tired of his mischief… gave him one strange blessing. He would forget his strength… until someone reminded him."
+    },
+    {
+      "k": "h05",
+      "kw": "Ordinary",
+      "feel": "warm",
+      "pace": 0.86,
+      "img": "Young Hanuman, a gentle monkey youth with golden-brown fur and a red-orange dhoti, humbly carries two water pots on a pole through a forest kingdom of monkeys, other monkeys around him busy with their work. Simple and quiet.",
+      "text": "So Hanuman grew up gentle… loyal… and humble. He served Sugriva, the monkey king. He never once thought of himself as mighty."
+    },
+    {
+      "k": "h06",
+      "kw": "Rama",
+      "feel": "devotional",
+      "pace": 0.84,
+      "img": "In a forest clearing, Hanuman, a monkey-faced hero with golden-brown fur and a red-orange dhoti, kneels and bows with folded hands before Rama, a blue-skinned prince with a bow and simple forest clothes, and his brother Lakshmana, fair-skinned, also with a bow. Rama smiles and reaches out to him.",
+      "text": "Then he met Rama… whose wife Sita had been stolen by the demon king Ravana. And Hanuman's heart gave itself to Rama… completely."
+    },
+    {
+      "k": "h07",
+      "kw": "Search",
+      "feel": "firm",
+      "pace": 0.88,
+      "img": "A band of monkeys and bears, led by Hanuman with his gold mace, walk along a rocky southern coastline searching, shading their eyes. The land ends at a vast ocean stretching to the horizon.",
+      "text": "Search parties went out in every direction. Hanuman's group walked south… until there was no more land. Only the ocean."
+    },
+    {
+      "k": "hanuman",
+      "kw": "Lanka",
+      "feel": "wonder",
+      "pace": 0.84,
+      "text": "Somewhere across that endless water lay the island of Lanka, where Sita was held. A hundred yojanas away."
+    },
+    {
+      "k": "h08",
+      "kw": "Impossible",
+      "feel": "heavy",
+      "pace": 0.84,
+      "img": "A group of monkeys sit slumped in despair on a rocky shore, heads down, some holding their heads. Huge dark waves crash against the rocks in front of them, the ocean endless and grey.",
+      "text": "Who could cross that? One by one, the monkeys said how far they could jump. Not far enough. Not even close."
+    },
+    {
+      "k": "h09",
+      "kw": "Silent",
+      "feel": "quiet",
+      "pace": 0.8,
+      "img": "Hanuman, a monkey-faced hero with golden-brown fur and a red-orange dhoti, sits alone on a rock apart from the others, quiet, eyes lowered, his mace lying beside him, the ocean behind him at dusk.",
+      "text": "And Hanuman sat apart… saying nothing. It never even occurred to him… that he could do it."
+    },
+    {
+      "k": "h10",
+      "kw": "Jambavan",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "Old Jambavan, the wise bear king with a white muzzle, a long white beard, a walking staff and gold earrings, sits down beside Hanuman on a rock by the sea and looks at him kindly. Hanuman looks up at him.",
+      "text": "Then old Jambavan, the wise bear king, walked over… and sat beside him. Why are you silent, Hanuman? he asked."
+    },
+    {
+      "k": "h11",
+      "kw": "Remember",
+      "feel": "hopeful",
+      "pace": 0.86,
+      "img": "Old Jambavan the bear king points up at the sky. In the clouds above, like a memory, a faint image of baby Hanuman leaping toward the huge golden sun. Hanuman, sitting on the rock, looks up at it, eyes widening.",
+      "text": "Don't you remember who you are? You leapt at the sun as a child. You are the son of the wind. This is what you were born for."
+    },
+    {
+      "k": "h12",
+      "kw": "Spark",
+      "feel": "wonder",
+      "pace": 0.82,
+      "img": "Close view of Hanuman, a monkey-faced hero with golden-brown fur, his hand on his chest, eyes closed. A small warm gold light is beginning to glow inside his chest, spreading in fine engraved rays. Night sky with gold stars behind.",
+      "text": "And something stirred in Hanuman. Not something new. Something that had been there all along… waiting to be remembered."
+    },
+    {
+      "k": "h13",
+      "kw": "Grow",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "Hanuman stands up and grows enormous, towering above the trees and hills, his body shining gold, his mace on his shoulder, while the tiny monkeys and bears below look up in amazement.",
+      "text": "He stood up. And he began to grow. Taller than the trees. Taller than the hills. His body… shining like gold."
+    },
+    {
+      "k": "h14",
+      "kw": "Mountain",
+      "feel": "grand",
+      "pace": 0.88,
+      "img": "Giant Hanuman crouches on top of Mount Mahendra by the sea, pressing down to jump. His foot presses into the rock, the mountain cracks, boulders tumble and trees shake, birds fly up.",
+      "text": "He climbed onto the mountain… and pressed down to jump. The whole mountain shook beneath his feet."
+    },
+    {
+      "k": "h15",
+      "kw": "Leap",
+      "feel": "joyful",
+      "pace": 0.88,
+      "img": "Hanuman soars over the wide ocean with arms outstretched, his tail streaming behind, red-orange dhoti flying, clouds parting around him, waves far below and a distant island on the horizon.",
+      "text": "And then he leapt. Over the waves… over the storms… over every voice that had said it couldn't be done."
+    },
+    {
+      "k": "h16",
+      "kw": "Across",
+      "feel": "hopeful",
+      "pace": 0.86,
+      "img": "Hanuman lands lightly on one knee on the shore of Lanka at dusk. Behind him rises the golden city of Lanka with towers and palaces on a hill. Waves wash the sand.",
+      "text": "He landed on the shores of Lanka."
+    },
+    {
+      "k": "h17",
+      "kw": "Ring",
+      "feel": "tender",
+      "pace": 0.84,
+      "img": "In a garden of ashoka trees at night, Hanuman, small and kneeling, offers a gold ring on his open palm to Sita, a sad, gentle princess in a simple ivory sari sitting beneath the tree. Her face fills with hope as she sees the ring.",
+      "text": "And he found Sita… and placed Rama's ring in her hand. Rama is coming, he told her. You have not been forgotten."
+    },
+    {
+      "k": "h12",
+      "kw": "Already",
+      "feel": "sacred",
+      "pace": 0.82,
+      "text": "Notice what changed. Hanuman didn't become stronger. He remembered… that he already was."
+    },
+    {
+      "k": "h10",
+      "kw": "Reminder",
+      "feel": "tender",
+      "pace": 0.82,
+      "text": "Sometimes we need a Jambavan. Someone who sits beside us… and reminds us who we are."
+    },
+    {
+      "k": "h15",
+      "kw": "You",
+      "feel": "hopeful",
+      "pace": 0.84,
+      "text": "So consider this your reminder. You have already crossed oceans… you once thought you couldn't."
+    },
+    {
+      "k": "diya",
+      "kw": "Lift",
+      "feel": "sacred",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… Lift yourself by your own self. Do not let yourself sink. You are your own friend."
+    }
+  ]
+}

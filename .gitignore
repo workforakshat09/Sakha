@@ -1,0 +1,20 @@
+# secrets: the Sarvam key lives here and must never be committed
+.env
+.env.*
+
+# dependencies and local tooling
+node_modules/
+.claude/
+
+# raw source images (the site uses the compressed copies in sakha-site/img)
+sakha-site/src/
+
+# the display font is licensed separately
+sakha-site/fonts/SHAKA.*
+
+# film renders, recordings and music (large, or not ours to redistribute)
+film/out/
+film/clips/
+film/music/
+film/*.wav
+*.mp3.part

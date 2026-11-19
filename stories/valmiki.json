@@ -1,0 +1,162 @@
+{
+  "id": "valmiki",
+  "title": "Scene 09 · Valmiki",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "r01",
+      "kw": "Robber",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "A dark forest road at dusk. Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe waits hidden behind a tree beside the road, watching for travellers.",
+      "text": "Long ago, in a dark forest, a robber named Ratnakara waited by the road… for travellers to rob.",
+      "score": [
+        "alap",
+        60
+      ]
+    },
+    {
+      "k": "r02",
+      "kw": "Family",
+      "feel": "quiet",
+      "pace": 0.84,
+      "img": "Inside a forest hut lit by a fire, Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe drops a bag of stolen coins in front of his old parents, his wife and children, who sit eating.",
+      "text": "He did it to feed his family. He told himself… it was his duty."
+    },
+    {
+      "k": "r03",
+      "kw": "Narada",
+      "feel": "wonder",
+      "pace": 0.86,
+      "img": "On the forest road, the sage Narada walks along singing, a white beard, saffron robe and a veena on his shoulder, carrying nothing else.",
+      "text": "One day, the sage Narada came down that road, singing… with nothing but his veena."
+    },
+    {
+      "k": "r04",
+      "kw": "Stop",
+      "feel": "tense",
+      "pace": 0.88,
+      "img": "Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe jumps out and blocks the road, raising his axe at the sage Narada (white beard, saffron robe, veena), who stands calm and unafraid.",
+      "text": "Ratnakara stopped him with a raised axe. Give me everything you have."
+    },
+    {
+      "k": "r05",
+      "kw": "Question",
+      "feel": "firm",
+      "pace": 0.84,
+      "img": "The sage Narada (white beard, saffron robe, veena) speaks calmly to Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe, one finger raised, and the robber lowers his axe, frowning, listening.",
+      "text": "Narada was not afraid. He asked one question. Will your family share the sin… of what you do for them?"
+    },
+    {
+      "k": "r06",
+      "kw": "Tied",
+      "feel": "quiet",
+      "pace": 0.84,
+      "img": "The sage Narada sits calmly, tied to a tree with rope, while Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe runs off through the forest toward his home.",
+      "text": "Ratnakara tied Narada to a tree… and ran home to ask."
+    },
+    {
+      "k": "r07",
+      "kw": "Alone",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "Inside the forest hut, Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe stands stunned as his wife and old parents turn their faces away from him, shaking their heads.",
+      "text": "His family said: feeding us is your duty. But your sins… are yours alone."
+    },
+    {
+      "k": "r08",
+      "kw": "Seen",
+      "feel": "pained",
+      "pace": 0.8,
+      "img": "Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe walks slowly back along the dark forest road, his axe dragging on the ground, his head bowed, broken.",
+      "text": "Ratnakara walked back slowly. For the first time in his life… he saw what he had become."
+    },
+    {
+      "k": "r09",
+      "kw": "Way back",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe, weeping, kneels at the feet of the sage Narada (white beard, saffron robe, veena), the cut rope beside them, his axe thrown away.",
+      "text": "He untied the sage, and fell at his feet. Is there a way back… for someone like me?"
+    },
+    {
+      "k": "r10",
+      "kw": "Mara",
+      "feel": "hopeful",
+      "pace": 0.84,
+      "img": "The sage Narada sits facing Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe under a tree, teaching him patiently; the robber struggles to speak a word, eyes closed.",
+      "text": "Narada gave him the name of Rama to repeat. But he could not even say it. The story goes that only one word would come… mara."
+    },
+    {
+      "k": "r11",
+      "kw": "Rama",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Ratnakara: rough muscular man, dark skin, wild long black hair and a thick black beard, a waist cloth of animal skin, an axe sits cross-legged in meditation under a tree, eyes closed, lips moving, faint golden letters of the name Rama circling softly around him.",
+      "text": "So Narada said, then say mara. And as he said it again and again… mara, mara, mara… it became Rama. Rama. Rama."
+    },
+    {
+      "k": "r12",
+      "kw": "Anthill",
+      "feel": "quiet",
+      "pace": 0.82,
+      "img": "In the forest, a tall earthen anthill has grown over a meditating man so that only his calm face and folded hands show; years have passed, vines and seasons around it.",
+      "text": "He prayed for so many years that an anthill grew over his body. In Sanskrit, an anthill is called valmika."
+    },
+    {
+      "k": "r13",
+      "kw": "Valmiki",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "Valmiki: the same man grown old and gentle, dark skin, long black-and-white beard and matted hair tied up, saffron robe, rudraksha beads rises out of a broken anthill, peaceful, as several sages bow to him in the forest at dawn.",
+      "text": "When at last he rose from it, the sages named him Valmiki… the one born from the anthill."
+    },
+    {
+      "k": "r14",
+      "kw": "Birds",
+      "feel": "grief",
+      "pace": 0.8,
+      "img": "By the Tamasa river, Valmiki: the same man grown old and gentle, dark skin, long black-and-white beard and matted hair tied up, saffron robe, rudraksha beads watches in sorrow as one bird of a loving pair falls from a branch, struck by a hunter's arrow, and its mate cries out above it.",
+      "text": "One day by the river Tamasa, he saw a hunter’s arrow strike one of a pair of loving birds. And the other cried… and cried."
+    },
+    {
+      "k": "r15",
+      "kw": "Shloka",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Valmiki: the same man grown old and gentle, dark skin, long black-and-white beard and matted hair tied up, saffron robe, rudraksha beads stands by the river with one hand on his heart, speaking aloud, tears in his eyes, as golden lines of verse rise from his words into the air.",
+      "text": "Grief poured out of him in words with a rhythm no one had heard before. It was the first verse of poetry… the shloka."
+    },
+    {
+      "k": "r16",
+      "kw": "Brahma",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "The god Brahma, with four bearded faces and four arms, seated on a lotus in a cloud of light, appears before Valmiki: the same man grown old and gentle, dark skin, long black-and-white beard and matted hair tied up, saffron robe, rudraksha beads in his hermitage and blesses him.",
+      "text": "The god Brahma appeared and told him: with this gift… write the story of Rama."
+    },
+    {
+      "k": "r17",
+      "kw": "Ramayana",
+      "feel": "devotional",
+      "pace": 0.86,
+      "img": "Valmiki: the same man grown old and gentle, dark skin, long black-and-white beard and matted hair tied up, saffron robe, rudraksha beads sits in his forest hermitage writing on palm leaves by lamplight, piles of finished leaves beside him, scenes of Rama drawn faintly in the smoke above.",
+      "text": "And the robber from the forest wrote the Ramayana… the story millions still read today."
+    },
+    {
+      "k": "r18",
+      "kw": "Shelter",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "At the gate of his forest hermitage, Valmiki: the same man grown old and gentle, dark skin, long black-and-white beard and matted hair tied up, saffron robe, rudraksha beads welcomes Sita: gentle young woman in a simple ivory sari, who is alone and tired, offering her his hand and shelter.",
+      "text": "Years later, when Sita was alone and in need… it was Valmiki’s hermitage that took her in."
+    },
+    {
+      "k": "diya",
+      "kw": "Turn",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… Even someone who has done great wrong, if they turn to me with their whole heart… should be seen as good. They have chosen rightly."
+    }
+  ]
+}

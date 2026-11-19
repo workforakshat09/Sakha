@@ -1,0 +1,154 @@
+{
+  "id": "rama",
+  "title": "Scene 13 · Rama",
+  "voice": "chandrika_en_stories",
+  "scenes": [
+    {
+      "k": "l01",
+      "kw": "Lanka",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "Across a wide battlefield at dawn, Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows and Lakshmana: fair-skinned young prince, clean-shaven, black hair tied up, ochre forest clothes, a bow stand with Hanuman: monkey face the same golden-brown as his fur (no white muzzle), golden-brown fur, muscular, long curling tail, red-orange dhoti, gold armlets, tall gold crown, gold mace and a great army of monkeys and bears, facing the golden walls of Lanka in the distance.",
+      "text": "This story is not in Valmiki’s Ramayana. It comes from the Bengali poet Krittivasa… and it begins in the middle of a war. Rama stood before the golden city of Lanka.",
+      "score": [
+        "alap",
+        20
+      ]
+    },
+    {
+      "k": "l02",
+      "kw": "Ravana",
+      "feel": "tense",
+      "pace": 0.86,
+      "img": "Ravana: ten-headed demon king of Lanka, dark brown skin, a thick black moustache on every face, ten gold crowns, black-and-gold armour, many arms holding weapons rides out of the gates of Lanka in a huge golden war chariot pulled by black horses, his army behind him.",
+      "text": "For days the battle raged. And Ravana, the ten-headed king, rode out to meet him."
+    },
+    {
+      "k": "l03",
+      "kw": "Shield",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "On the battlefield, Ravana: ten-headed demon king of Lanka, dark brown skin, a thick black moustache on every face, ten gold crowns, black-and-gold armour, many arms holding weapons stands in his chariot, and behind him sits a faint, glowing figure of the goddess Durga: calm and powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, riding a golden lion, protecting him, while golden arrows fall harmlessly away like leaves.",
+      "text": "But Ravana had prayed to the goddess Durga for years. And now, the poet says… she sat in his chariot, guarding him. Rama’s arrows fell away like leaves."
+    },
+    {
+      "k": "l04",
+      "kw": "Doubt",
+      "feel": "heavy",
+      "pace": 0.82,
+      "img": "At dusk on the battlefield, Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows lowers his bow, troubled, while Lakshmana: fair-skinned young prince, clean-shaven, black hair tied up, ochre forest clothes, a bow stands beside him, worried.",
+      "text": "Rama lowered his bow. How do you fight someone the Mother herself protects?"
+    },
+    {
+      "k": "l05",
+      "kw": "Counsel",
+      "feel": "quiet",
+      "pace": 0.82,
+      "img": "In a quiet camp at night, Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows kneels with folded hands before Brahma: four-faced god with white beards, four gold crowns, red robes, seated on a pink lotus, who raises one hand in blessing and gives advice.",
+      "text": "Then the god Brahma came to him and said: ask the Mother herself. Worship Durga… and win her blessing."
+    },
+    {
+      "k": "l06",
+      "kw": "Untimely",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "Under a bel tree in autumn, Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows sets up a simple shrine with a clay image of the goddess Durga: calm and powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, riding a golden lion, lighting the first lamp, autumn kash grass waving behind.",
+      "text": "But it was autumn. The goddess was worshipped in spring, not now. So Rama called her out of season… the Akaal Bodhan. The untimely awakening."
+    },
+    {
+      "k": "l07",
+      "kw": "Lotuses",
+      "feel": "wonder",
+      "pace": 0.86,
+      "img": "Hanuman: monkey face the same golden-brown as his fur (no white muzzle), golden-brown fur, muscular, long curling tail, red-orange dhoti, gold armlets, tall gold crown, gold mace flies through the night sky over the sea, carrying a large basket overflowing with blue lotuses.",
+      "text": "The worship needed one hundred and eight blue lotuses, which grew only in a lake far away. Hanuman flew there… and brought them back."
+    },
+    {
+      "k": "l08",
+      "kw": "Worship",
+      "feel": "devotional",
+      "pace": 0.84,
+      "img": "Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows sits cross-legged before the shrine of the goddess Durga: calm and powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, riding a golden lion, offering blue lotuses one by one into a pile at her feet, a basket beside him, lamps glowing, Lakshmana: fair-skinned young prince, clean-shaven, black hair tied up, ochre forest clothes, a bow watching respectfully.",
+      "text": "Rama sat before the goddess and offered the lotuses one by one… with a prayer for each."
+    },
+    {
+      "k": "l09",
+      "kw": "Test",
+      "feel": "wonder",
+      "pace": 0.84,
+      "img": "Behind the shrine, a soft golden hand of the goddess, half hidden in shadow, quietly lifts a single blue lotus out of the basket, while Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows prays with closed eyes.",
+      "text": "And the goddess, watching, wanted to see how deep his devotion went. Unseen… she took one lotus away."
+    },
+    {
+      "k": "l10",
+      "kw": "Missing",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "Close view of Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows reaching into the large basket beside the shrine and finding it empty, his face troubled, a pile of blue lotuses before the goddess.",
+      "text": "One hundred and seven. Rama reached for the last lotus… and the basket was empty."
+    },
+    {
+      "k": "l11",
+      "kw": "Searching",
+      "feel": "pained",
+      "pace": 0.82,
+      "img": "At night around the shrine, Lakshmana: fair-skinned young prince, clean-shaven, black hair tied up, ochre forest clothes, a bow and Hanuman: monkey face the same golden-brown as his fur (no white muzzle), golden-brown fur, muscular, long curling tail, red-orange dhoti, gold armlets, tall gold crown, gold mace search the grass and the riverbank with lamps, looking everywhere.",
+      "text": "They searched everywhere. There was no time to bring another. And the worship could not be left unfinished."
+    },
+    {
+      "k": "l12",
+      "kw": "Lotus-eyed",
+      "feel": "tender",
+      "pace": 0.82,
+      "img": "Close portrait of Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows, calm, eyes shining, large lotus-shaped eyes, a single blue lotus drawn faintly behind his face like a memory.",
+      "text": "Then Rama remembered. Since he was a child, people had called him Kamal-nayan… the lotus-eyed one. If his eyes were like lotuses… he still had something to offer."
+    },
+    {
+      "k": "l13",
+      "kw": "Everything",
+      "feel": "firm",
+      "pace": 0.84,
+      "img": "Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows kneels before the shrine of the goddess Durga: calm and powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, riding a golden lion, calm and resolute, holding a single arrow upright in his hand, ready to give everything to complete his offering.",
+      "text": "Calmly, he picked up an arrow. He was ready to give his own eye… to finish what he had begun."
+    },
+    {
+      "k": "l14",
+      "kw": "Mother",
+      "feel": "sacred",
+      "pace": 0.82,
+      "img": "the goddess Durga: calm and powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, riding a golden lion appears in a blaze of golden light before the shrine and gently holds the hand of Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows, stopping him, smiling with love, her lion beside her.",
+      "text": "And the goddess appeared and held his hand. Stop, my child. I never wanted your eye. I only wanted to see your heart."
+    },
+    {
+      "k": "l15",
+      "kw": "Blessed",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "the goddess Durga: calm and powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, riding a golden lion blesses Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows, and a stream of golden light flows from her raised hand into his bow and arrows, Lakshmana: fair-skinned young prince, clean-shaven, black hair tied up, ochre forest clothes, a bow and Hanuman: monkey face the same golden-brown as his fur (no white muzzle), golden-brown fur, muscular, long curling tail, red-orange dhoti, gold armlets, tall gold crown, gold mace bowing behind him.",
+      "text": "She left Ravana’s side… and blessed Rama’s arrows."
+    },
+    {
+      "k": "l16",
+      "kw": "Victory",
+      "feel": "grand",
+      "pace": 0.86,
+      "img": "At sunrise on the battlefield, Rama: blue-skinned young prince, clean-shaven, large lotus-shaped eyes, long black hair tied up in a topknot, simple ochre forest clothes, a great bow and a quiver of arrows draws his great bow and a glowing golden arrow streaks toward the distant chariot of Ravana, the army cheering behind him.",
+      "text": "On the tenth day, Rama won the war. That day is still celebrated as Vijayadashami… Dussehra."
+    },
+    {
+      "k": "l17",
+      "kw": "Every autumn",
+      "feel": "warm",
+      "pace": 0.84,
+      "img": "Present-day Bengal at night: families and drummers with tall dhak drums celebrate before a large decorated image of the goddess Durga: calm and powerful face, ten arms holding a trident, a discus, a sword, a conch and a bow, red silk sari with a gold border, tall gold crown, riding a golden lion in a festival pandal, lamps and marigolds everywhere.",
+      "text": "And in Bengal, every autumn, the Durga Puja still remembers Rama’s untimely call to the Mother."
+    },
+    {
+      "k": "diya",
+      "kw": "Never lost",
+      "feel": "peace",
+      "pace": 0.8,
+      "text": "Krishna says in the Gita… On this path, no effort is ever lost. Even a little of it… protects you from great fear."
+    }
+  ]
+}
